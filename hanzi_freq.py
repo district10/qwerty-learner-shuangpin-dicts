@@ -90,10 +90,11 @@ if __name__ == '__main__':
         ret = []
         for i in items:
             ret.extend([i] * i['trans'][-1])
-        for k in list(range(len(ret) // 50)):
-            i, j = k * 50, (k+1) * 50
-            copy = list(ret[i:j])
-            random.shuffle(copy)
-            ret[i:j] = copy
+        for N in [50, 100, 300]:
+            for k in list(range(len(ret) // N)):
+                i, j = k * N, (k+1) * N
+                copy = list(ret[i:j])
+                random.shuffle(copy)
+                ret[i:j] = copy
         json.dump(ret, f, indent=4, ensure_ascii=False)
     print(f'wrote to {output_dict_path}')
