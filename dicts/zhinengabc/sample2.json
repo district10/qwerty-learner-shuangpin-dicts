@@ -1,0 +1,4550 @@
+[
+    {
+        "name": "yi",
+        "trans": [
+            "一"
+        ]
+    },
+    {
+        "name": "yi",
+        "trans": [
+            "一"
+        ]
+    },
+    {
+        "name": "yixd",
+        "trans": [
+            "一下"
+        ]
+    },
+    {
+        "name": "yige",
+        "trans": [
+            "一个"
+        ]
+    },
+    {
+        "name": "yige",
+        "trans": [
+            "一个"
+        ]
+    },
+    {
+        "name": "yixx",
+        "trans": [
+            "一些"
+        ]
+    },
+    {
+        "name": "yijw",
+        "trans": [
+            "一件"
+        ]
+    },
+    {
+        "name": "yiqx",
+        "trans": [
+            "一切"
+        ]
+    },
+    {
+        "name": "yiju",
+        "trans": [
+            "一句"
+        ]
+    },
+    {
+        "name": "yikc",
+        "trans": [
+            "一块"
+        ]
+    },
+    {
+        "name": "yidy",
+        "trans": [
+            "一定"
+        ]
+    },
+    {
+        "name": "yidy",
+        "trans": [
+            "一定"
+        ]
+    },
+    {
+        "name": "yitz",
+        "trans": [
+            "一条"
+        ]
+    },
+    {
+        "name": "yiyh",
+        "trans": [
+            "一样"
+        ]
+    },
+    {
+        "name": "yici",
+        "trans": [
+            "一次"
+        ]
+    },
+    {
+        "name": "yidw",
+        "trans": [
+            "一点"
+        ]
+    },
+    {
+        "name": "yidw",
+        "trans": [
+            "一点"
+        ]
+    },
+    {
+        "name": "yipw",
+        "trans": [
+            "一片"
+        ]
+    },
+    {
+        "name": "yiai",
+        "trans": [
+            "一直"
+        ]
+    },
+    {
+        "name": "yiai",
+        "trans": [
+            "一直"
+        ]
+    },
+    {
+        "name": "yias",
+        "trans": [
+            "一种"
+        ]
+    },
+    {
+        "name": "yibj",
+        "trans": [
+            "一般"
+        ]
+    },
+    {
+        "name": "yibj",
+        "trans": [
+            "一般"
+        ]
+    },
+    {
+        "name": "yiqi",
+        "trans": [
+            "一起"
+        ]
+    },
+    {
+        "name": "yiaf",
+        "trans": [
+            "一阵"
+        ]
+    },
+    {
+        "name": "wj",
+        "trans": [
+            "万"
+        ]
+    },
+    {
+        "name": "sj",
+        "trans": [
+            "三"
+        ]
+    },
+    {
+        "name": "vh",
+        "trans": [
+            "上"
+        ]
+    },
+    {
+        "name": "vh",
+        "trans": [
+            "上"
+        ]
+    },
+    {
+        "name": "vhmw",
+        "trans": [
+            "上面"
+        ]
+    },
+    {
+        "name": "xd",
+        "trans": [
+            "下"
+        ]
+    },
+    {
+        "name": "xd",
+        "trans": [
+            "下"
+        ]
+    },
+    {
+        "name": "xdqu",
+        "trans": [
+            "下去"
+        ]
+    },
+    {
+        "name": "xdll",
+        "trans": [
+            "下来"
+        ]
+    },
+    {
+        "name": "xdll",
+        "trans": [
+            "下来"
+        ]
+    },
+    {
+        "name": "xdmw",
+        "trans": [
+            "下面"
+        ]
+    },
+    {
+        "name": "bu",
+        "trans": [
+            "不"
+        ]
+    },
+    {
+        "name": "bu",
+        "trans": [
+            "不"
+        ]
+    },
+    {
+        "name": "bule",
+        "trans": [
+            "不了"
+        ]
+    },
+    {
+        "name": "buhm",
+        "trans": [
+            "不会"
+        ]
+    },
+    {
+        "name": "budk",
+        "trans": [
+            "不到"
+        ]
+    },
+    {
+        "name": "buts",
+        "trans": [
+            "不同"
+        ]
+    },
+    {
+        "name": "buhk",
+        "trans": [
+            "不好"
+        ]
+    },
+    {
+        "name": "buxt",
+        "trans": [
+            "不想"
+        ]
+    },
+    {
+        "name": "bugj",
+        "trans": [
+            "不敢"
+        ]
+    },
+    {
+        "name": "buvi",
+        "trans": [
+            "不是"
+        ]
+    },
+    {
+        "name": "buys",
+        "trans": [
+            "不用"
+        ]
+    },
+    {
+        "name": "buai",
+        "trans": [
+            "不知"
+        ]
+    },
+    {
+        "name": "bung",
+        "trans": [
+            "不能"
+        ]
+    },
+    {
+        "name": "bung",
+        "trans": [
+            "不能"
+        ]
+    },
+    {
+        "name": "buyk",
+        "trans": [
+            "不要"
+        ]
+    },
+    {
+        "name": "bugo",
+        "trans": [
+            "不过"
+        ]
+    },
+    {
+        "name": "buco",
+        "trans": [
+            "不错"
+        ]
+    },
+    {
+        "name": "yu",
+        "trans": [
+            "与"
+        ]
+    },
+    {
+        "name": "vijx",
+        "trans": [
+            "世界"
+        ]
+    },
+    {
+        "name": "vijx",
+        "trans": [
+            "世界"
+        ]
+    },
+    {
+        "name": "dsxi",
+        "trans": [
+            "东西"
+        ]
+    },
+    {
+        "name": "dsxi",
+        "trans": [
+            "东西"
+        ]
+    },
+    {
+        "name": "lt",
+        "trans": [
+            "两"
+        ]
+    },
+    {
+        "name": "ltge",
+        "trans": [
+            "两个"
+        ]
+    },
+    {
+        "name": "ge",
+        "trans": [
+            "个"
+        ]
+    },
+    {
+        "name": "ge",
+        "trans": [
+            "个"
+        ]
+    },
+    {
+        "name": "gerf",
+        "trans": [
+            "个人"
+        ]
+    },
+    {
+        "name": "genv",
+        "trans": [
+            "个女"
+        ]
+    },
+    {
+        "name": "as",
+        "trans": [
+            "中"
+        ]
+    },
+    {
+        "name": "as",
+        "trans": [
+            "中"
+        ]
+    },
+    {
+        "name": "asgo",
+        "trans": [
+            "中国"
+        ]
+    },
+    {
+        "name": "asgo",
+        "trans": [
+            "中国"
+        ]
+    },
+    {
+        "name": "asde",
+        "trans": [
+            "中的"
+        ]
+    },
+    {
+        "name": "wq",
+        "trans": [
+            "为"
+        ]
+    },
+    {
+        "name": "wq",
+        "trans": [
+            "为"
+        ]
+    },
+    {
+        "name": "wqle",
+        "trans": [
+            "为了"
+        ]
+    },
+    {
+        "name": "wqvf",
+        "trans": [
+            "为什"
+        ]
+    },
+    {
+        "name": "wqvfme",
+        "trans": [
+            "为什么"
+        ]
+    },
+    {
+        "name": "au",
+        "trans": [
+            "主"
+        ]
+    },
+    {
+        "name": "aurf",
+        "trans": [
+            "主任"
+        ]
+    },
+    {
+        "name": "auyk",
+        "trans": [
+            "主要"
+        ]
+    },
+    {
+        "name": "ai",
+        "trans": [
+            "之"
+        ]
+    },
+    {
+        "name": "ai",
+        "trans": [
+            "之"
+        ]
+    },
+    {
+        "name": "aiqw",
+        "trans": [
+            "之前"
+        ]
+    },
+    {
+        "name": "aihb",
+        "trans": [
+            "之后"
+        ]
+    },
+    {
+        "name": "aihb",
+        "trans": [
+            "之后"
+        ]
+    },
+    {
+        "name": "hu",
+        "trans": [
+            "乎"
+        ]
+    },
+    {
+        "name": "ye",
+        "trans": [
+            "也"
+        ]
+    },
+    {
+        "name": "ye",
+        "trans": [
+            "也"
+        ]
+    },
+    {
+        "name": "yemq",
+        "trans": [
+            "也没"
+        ]
+    },
+    {
+        "name": "yexu",
+        "trans": [
+            "也许"
+        ]
+    },
+    {
+        "name": "vu",
+        "trans": [
+            "书"
+        ]
+    },
+    {
+        "name": "vuji",
+        "trans": [
+            "书记"
+        ]
+    },
+    {
+        "name": "ml",
+        "trans": [
+            "买"
+        ]
+    },
+    {
+        "name": "mlle",
+        "trans": [
+            "买了"
+        ]
+    },
+    {
+        "name": "le",
+        "trans": [
+            "了"
+        ]
+    },
+    {
+        "name": "le",
+        "trans": [
+            "了"
+        ]
+    },
+    {
+        "name": "lejx",
+        "trans": [
+            "了解"
+        ]
+    },
+    {
+        "name": "vi",
+        "trans": [
+            "事"
+        ]
+    },
+    {
+        "name": "vi",
+        "trans": [
+            "事"
+        ]
+    },
+    {
+        "name": "viqy",
+        "trans": [
+            "事情"
+        ]
+    },
+    {
+        "name": "viqy",
+        "trans": [
+            "事情"
+        ]
+    },
+    {
+        "name": "or",
+        "trans": [
+            "二"
+        ]
+    },
+    {
+        "name": "orvi",
+        "trans": [
+            "二十"
+        ]
+    },
+    {
+        "name": "yu",
+        "trans": [
+            "于"
+        ]
+    },
+    {
+        "name": "yu",
+        "trans": [
+            "于"
+        ]
+    },
+    {
+        "name": "yuvi",
+        "trans": [
+            "于是"
+        ]
+    },
+    {
+        "name": "yuvi",
+        "trans": [
+            "于是"
+        ]
+    },
+    {
+        "name": "wu",
+        "trans": [
+            "五"
+        ]
+    },
+    {
+        "name": "ejpc",
+        "trans": [
+            "产品"
+        ]
+    },
+    {
+        "name": "jyds",
+        "trans": [
+            "京东"
+        ]
+    },
+    {
+        "name": "rf",
+        "trans": [
+            "人"
+        ]
+    },
+    {
+        "name": "rf",
+        "trans": [
+            "人"
+        ]
+    },
+    {
+        "name": "rfjd",
+        "trans": [
+            "人家"
+        ]
+    },
+    {
+        "name": "rfvg",
+        "trans": [
+            "人生"
+        ]
+    },
+    {
+        "name": "vfme",
+        "trans": [
+            "什么"
+        ]
+    },
+    {
+        "name": "vfme",
+        "trans": [
+            "什么"
+        ]
+    },
+    {
+        "name": "jctw",
+        "trans": [
+            "今天"
+        ]
+    },
+    {
+        "name": "jctw",
+        "trans": [
+            "今天"
+        ]
+    },
+    {
+        "name": "cs",
+        "trans": [
+            "从"
+        ]
+    },
+    {
+        "name": "ta",
+        "trans": [
+            "他"
+        ]
+    },
+    {
+        "name": "ta",
+        "trans": [
+            "他"
+        ]
+    },
+    {
+        "name": "tamf",
+        "trans": [
+            "他们"
+        ]
+    },
+    {
+        "name": "tamf",
+        "trans": [
+            "他们"
+        ]
+    },
+    {
+        "name": "yi",
+        "trans": [
+            "以"
+        ]
+    },
+    {
+        "name": "yi",
+        "trans": [
+            "以"
+        ]
+    },
+    {
+        "name": "yivh",
+        "trans": [
+            "以上"
+        ]
+    },
+    {
+        "name": "yiwq",
+        "trans": [
+            "以为"
+        ]
+    },
+    {
+        "name": "yiwq",
+        "trans": [
+            "以为"
+        ]
+    },
+    {
+        "name": "yiqw",
+        "trans": [
+            "以前"
+        ]
+    },
+    {
+        "name": "yiji",
+        "trans": [
+            "以及"
+        ]
+    },
+    {
+        "name": "yihb",
+        "trans": [
+            "以后"
+        ]
+    },
+    {
+        "name": "yihb",
+        "trans": [
+            "以后"
+        ]
+    },
+    {
+        "name": "mf",
+        "trans": [
+            "们"
+        ]
+    },
+    {
+        "name": "mf",
+        "trans": [
+            "们"
+        ]
+    },
+    {
+        "name": "jw",
+        "trans": [
+            "件"
+        ]
+    },
+    {
+        "name": "jdge",
+        "trans": [
+            "价格"
+        ]
+    },
+    {
+        "name": "rfhe",
+        "trans": [
+            "任何"
+        ]
+    },
+    {
+        "name": "rfhe",
+        "trans": [
+            "任何"
+        ]
+    },
+    {
+        "name": "fhfu",
+        "trans": [
+            "仿佛"
+        ]
+    },
+    {
+        "name": "hm",
+        "trans": [
+            "会"
+        ]
+    },
+    {
+        "name": "hm",
+        "trans": [
+            "会"
+        ]
+    },
+    {
+        "name": "hmor",
+        "trans": [
+            "会儿"
+        ]
+    },
+    {
+        "name": "vihu",
+        "trans": [
+            "似乎"
+        ]
+    },
+    {
+        "name": "dj",
+        "trans": [
+            "但"
+        ]
+    },
+    {
+        "name": "djvi",
+        "trans": [
+            "但是"
+        ]
+    },
+    {
+        "name": "djvi",
+        "trans": [
+            "但是"
+        ]
+    },
+    {
+        "name": "wq",
+        "trans": [
+            "位"
+        ]
+    },
+    {
+        "name": "di",
+        "trans": [
+            "低"
+        ]
+    },
+    {
+        "name": "au",
+        "trans": [
+            "住"
+        ]
+    },
+    {
+        "name": "tiyj",
+        "trans": [
+            "体验"
+        ]
+    },
+    {
+        "name": "zowq",
+        "trans": [
+            "作为"
+        ]
+    },
+    {
+        "name": "zoae",
+        "trans": [
+            "作者"
+        ]
+    },
+    {
+        "name": "ni",
+        "trans": [
+            "你"
+        ]
+    },
+    {
+        "name": "ni",
+        "trans": [
+            "你"
+        ]
+    },
+    {
+        "name": "nimf",
+        "trans": [
+            "你们"
+        ]
+    },
+    {
+        "name": "nimf",
+        "trans": [
+            "你们"
+        ]
+    },
+    {
+        "name": "viys",
+        "trans": [
+            "使用"
+        ]
+    },
+    {
+        "name": "bw",
+        "trans": [
+            "便"
+        ]
+    },
+    {
+        "name": "bwyi",
+        "trans": [
+            "便宜"
+        ]
+    },
+    {
+        "name": "zo",
+        "trans": [
+            "做"
+        ]
+    },
+    {
+        "name": "xt",
+        "trans": [
+            "像"
+        ]
+    },
+    {
+        "name": "orzi",
+        "trans": [
+            "儿子"
+        ]
+    },
+    {
+        "name": "yp",
+        "trans": [
+            "元"
+        ]
+    },
+    {
+        "name": "xw",
+        "trans": [
+            "先"
+        ]
+    },
+    {
+        "name": "xwvg",
+        "trans": [
+            "先生"
+        ]
+    },
+    {
+        "name": "qpwf",
+        "trans": [
+            "全文"
+        ]
+    },
+    {
+        "name": "qpbu",
+        "trans": [
+            "全部"
+        ]
+    },
+    {
+        "name": "gsas",
+        "trans": [
+            "公众"
+        ]
+    },
+    {
+        "name": "gssi",
+        "trans": [
+            "公司"
+        ]
+    },
+    {
+        "name": "gssi",
+        "trans": [
+            "公司"
+        ]
+    },
+    {
+        "name": "gpyu",
+        "trans": [
+            "关于"
+        ]
+    },
+    {
+        "name": "gpau",
+        "trans": [
+            "关注"
+        ]
+    },
+    {
+        "name": "gpxi",
+        "trans": [
+            "关系"
+        ]
+    },
+    {
+        "name": "gpxi",
+        "trans": [
+            "关系"
+        ]
+    },
+    {
+        "name": "qi",
+        "trans": [
+            "其"
+        ]
+    },
+    {
+        "name": "qita",
+        "trans": [
+            "其他"
+        ]
+    },
+    {
+        "name": "qivi",
+        "trans": [
+            "其实"
+        ]
+    },
+    {
+        "name": "qivi",
+        "trans": [
+            "其实"
+        ]
+    },
+    {
+        "name": "nq",
+        "trans": [
+            "内"
+        ]
+    },
+    {
+        "name": "nqrs",
+        "trans": [
+            "内容"
+        ]
+    },
+    {
+        "name": "zl",
+        "trans": [
+            "再"
+        ]
+    },
+    {
+        "name": "xx",
+        "trans": [
+            "写"
+        ]
+    },
+    {
+        "name": "anbq",
+        "trans": [
+            "准备"
+        ]
+    },
+    {
+        "name": "anbq",
+        "trans": [
+            "准备"
+        ]
+    },
+    {
+        "name": "ji",
+        "trans": [
+            "几"
+        ]
+    },
+    {
+        "name": "jige",
+        "trans": [
+            "几个"
+        ]
+    },
+    {
+        "name": "jihu",
+        "trans": [
+            "几乎"
+        ]
+    },
+    {
+        "name": "eu",
+        "trans": [
+            "出"
+        ]
+    },
+    {
+        "name": "eu",
+        "trans": [
+            "出"
+        ]
+    },
+    {
+        "name": "euqu",
+        "trans": [
+            "出去"
+        ]
+    },
+    {
+        "name": "eull",
+        "trans": [
+            "出来"
+        ]
+    },
+    {
+        "name": "eull",
+        "trans": [
+            "出来"
+        ]
+    },
+    {
+        "name": "euxw",
+        "trans": [
+            "出现"
+        ]
+    },
+    {
+        "name": "ff",
+        "trans": [
+            "分"
+        ]
+    },
+    {
+        "name": "ffxt",
+        "trans": [
+            "分享"
+        ]
+    },
+    {
+        "name": "ffvb",
+        "trans": [
+            "分手"
+        ]
+    },
+    {
+        "name": "ffas",
+        "trans": [
+            "分钟"
+        ]
+    },
+    {
+        "name": "gh",
+        "trans": [
+            "刚"
+        ]
+    },
+    {
+        "name": "bx",
+        "trans": [
+            "别"
+        ]
+    },
+    {
+        "name": "bxrf",
+        "trans": [
+            "别人"
+        ]
+    },
+    {
+        "name": "bxrf",
+        "trans": [
+            "别人"
+        ]
+    },
+    {
+        "name": "dk",
+        "trans": [
+            "到"
+        ]
+    },
+    {
+        "name": "dk",
+        "trans": [
+            "到"
+        ]
+    },
+    {
+        "name": "qw",
+        "trans": [
+            "前"
+        ]
+    },
+    {
+        "name": "bjfa",
+        "trans": [
+            "办法"
+        ]
+    },
+    {
+        "name": "gsng",
+        "trans": [
+            "功能"
+        ]
+    },
+    {
+        "name": "jd",
+        "trans": [
+            "加"
+        ]
+    },
+    {
+        "name": "bk",
+        "trans": [
+            "包"
+        ]
+    },
+    {
+        "name": "vi",
+        "trans": [
+            "十"
+        ]
+    },
+    {
+        "name": "viff",
+        "trans": [
+            "十分"
+        ]
+    },
+    {
+        "name": "bj",
+        "trans": [
+            "半"
+        ]
+    },
+    {
+        "name": "ml",
+        "trans": [
+            "卖"
+        ]
+    },
+    {
+        "name": "qm",
+        "trans": [
+            "却"
+        ]
+    },
+    {
+        "name": "ypyc",
+        "trans": [
+            "原因"
+        ]
+    },
+    {
+        "name": "qu",
+        "trans": [
+            "去"
+        ]
+    },
+    {
+        "name": "qu",
+        "trans": [
+            "去"
+        ]
+    },
+    {
+        "name": "yb",
+        "trans": [
+            "又"
+        ]
+    },
+    {
+        "name": "fa",
+        "trans": [
+            "发"
+        ]
+    },
+    {
+        "name": "faxw",
+        "trans": [
+            "发现"
+        ]
+    },
+    {
+        "name": "faxw",
+        "trans": [
+            "发现"
+        ]
+    },
+    {
+        "name": "bweg",
+        "trans": [
+            "变成"
+        ]
+    },
+    {
+        "name": "kbqi",
+        "trans": [
+            "口气"
+        ]
+    },
+    {
+        "name": "ju",
+        "trans": [
+            "句"
+        ]
+    },
+    {
+        "name": "juhd",
+        "trans": [
+            "句话"
+        ]
+    },
+    {
+        "name": "ly",
+        "trans": [
+            "另"
+        ]
+    },
+    {
+        "name": "lyyi",
+        "trans": [
+            "另一"
+        ]
+    },
+    {
+        "name": "lywl",
+        "trans": [
+            "另外"
+        ]
+    },
+    {
+        "name": "ai",
+        "trans": [
+            "只"
+        ]
+    },
+    {
+        "name": "aivi",
+        "trans": [
+            "只是"
+        ]
+    },
+    {
+        "name": "aiyb",
+        "trans": [
+            "只有"
+        ]
+    },
+    {
+        "name": "aiyb",
+        "trans": [
+            "只有"
+        ]
+    },
+    {
+        "name": "aing",
+        "trans": [
+            "只能"
+        ]
+    },
+    {
+        "name": "aiyk",
+        "trans": [
+            "只要"
+        ]
+    },
+    {
+        "name": "aiyk",
+        "trans": [
+            "只要"
+        ]
+    },
+    {
+        "name": "jz",
+        "trans": [
+            "叫"
+        ]
+    },
+    {
+        "name": "ke",
+        "trans": [
+            "可"
+        ]
+    },
+    {
+        "name": "ke",
+        "trans": [
+            "可"
+        ]
+    },
+    {
+        "name": "keyi",
+        "trans": [
+            "可以"
+        ]
+    },
+    {
+        "name": "keyi",
+        "trans": [
+            "可以"
+        ]
+    },
+    {
+        "name": "kevi",
+        "trans": [
+            "可是"
+        ]
+    },
+    {
+        "name": "kevi",
+        "trans": [
+            "可是"
+        ]
+    },
+    {
+        "name": "kel",
+        "trans": [
+            "可爱"
+        ]
+    },
+    {
+        "name": "keng",
+        "trans": [
+            "可能"
+        ]
+    },
+    {
+        "name": "keng",
+        "trans": [
+            "可能"
+        ]
+    },
+    {
+        "name": "hk",
+        "trans": [
+            "号"
+        ]
+    },
+    {
+        "name": "ei",
+        "trans": [
+            "吃"
+        ]
+    },
+    {
+        "name": "geas",
+        "trans": [
+            "各种"
+        ]
+    },
+    {
+        "name": "tsxm",
+        "trans": [
+            "同学"
+        ]
+    },
+    {
+        "name": "tsvi",
+        "trans": [
+            "同时"
+        ]
+    },
+    {
+        "name": "myzi",
+        "trans": [
+            "名字"
+        ]
+    },
+    {
+        "name": "hb",
+        "trans": [
+            "后"
+        ]
+    },
+    {
+        "name": "hb",
+        "trans": [
+            "后"
+        ]
+    },
+    {
+        "name": "hbll",
+        "trans": [
+            "后来"
+        ]
+    },
+    {
+        "name": "xt",
+        "trans": [
+            "向"
+        ]
+    },
+    {
+        "name": "ma",
+        "trans": [
+            "吗"
+        ]
+    },
+    {
+        "name": "ba",
+        "trans": [
+            "吧"
+        ]
+    },
+    {
+        "name": "ty",
+        "trans": [
+            "听"
+        ]
+    },
+    {
+        "name": "tydk",
+        "trans": [
+            "听到"
+        ]
+    },
+    {
+        "name": "tyjw",
+        "trans": [
+            "听见"
+        ]
+    },
+    {
+        "name": "ya",
+        "trans": [
+            "呀"
+        ]
+    },
+    {
+        "name": "gksu",
+        "trans": [
+            "告诉"
+        ]
+    },
+    {
+        "name": "gksu",
+        "trans": [
+            "告诉"
+        ]
+    },
+    {
+        "name": "ne",
+        "trans": [
+            "呢"
+        ]
+    },
+    {
+        "name": "he",
+        "trans": [
+            "和"
+        ]
+    },
+    {
+        "name": "he",
+        "trans": [
+            "和"
+        ]
+    },
+    {
+        "name": "zjmf",
+        "trans": [
+            "咱们"
+        ]
+    },
+    {
+        "name": "pcpl",
+        "trans": [
+            "品牌"
+        ]
+    },
+    {
+        "name": "hahaha",
+        "trans": [
+            "哈哈哈"
+        ]
+    },
+    {
+        "name": "o",
+        "trans": [
+            "哦"
+        ]
+    },
+    {
+        "name": "naxx",
+        "trans": [
+            "哪些"
+        ]
+    },
+    {
+        "name": "ku",
+        "trans": [
+            "哭"
+        ]
+    },
+    {
+        "name": "a",
+        "trans": [
+            "啊"
+        ]
+    },
+    {
+        "name": "va",
+        "trans": [
+            "啥"
+        ]
+    },
+    {
+        "name": "la",
+        "trans": [
+            "啦"
+        ]
+    },
+    {
+        "name": "xihp",
+        "trans": [
+            "喜欢"
+        ]
+    },
+    {
+        "name": "xihp",
+        "trans": [
+            "喜欢"
+        ]
+    },
+    {
+        "name": "he",
+        "trans": [
+            "喝"
+        ]
+    },
+    {
+        "name": "hm",
+        "trans": [
+            "回"
+        ]
+    },
+    {
+        "name": "hmdk",
+        "trans": [
+            "回到"
+        ]
+    },
+    {
+        "name": "hmqu",
+        "trans": [
+            "回去"
+        ]
+    },
+    {
+        "name": "hmfu",
+        "trans": [
+            "回复"
+        ]
+    },
+    {
+        "name": "hmjd",
+        "trans": [
+            "回家"
+        ]
+    },
+    {
+        "name": "hmjd",
+        "trans": [
+            "回家"
+        ]
+    },
+    {
+        "name": "hmll",
+        "trans": [
+            "回来"
+        ]
+    },
+    {
+        "name": "hmll",
+        "trans": [
+            "回来"
+        ]
+    },
+    {
+        "name": "hmda",
+        "trans": [
+            "回答"
+        ]
+    },
+    {
+        "name": "hmda",
+        "trans": [
+            "回答"
+        ]
+    },
+    {
+        "name": "ycwq",
+        "trans": [
+            "因为"
+        ]
+    },
+    {
+        "name": "ycwq",
+        "trans": [
+            "因为"
+        ]
+    },
+    {
+        "name": "go",
+        "trans": [
+            "国"
+        ]
+    },
+    {
+        "name": "tu",
+        "trans": [
+            "图"
+        ]
+    },
+    {
+        "name": "tupw",
+        "trans": [
+            "图片"
+        ]
+    },
+    {
+        "name": "zl",
+        "trans": [
+            "在"
+        ]
+    },
+    {
+        "name": "zl",
+        "trans": [
+            "在"
+        ]
+    },
+    {
+        "name": "di",
+        "trans": [
+            "地"
+        ]
+    },
+    {
+        "name": "di",
+        "trans": [
+            "地"
+        ]
+    },
+    {
+        "name": "difh",
+        "trans": [
+            "地方"
+        ]
+    },
+    {
+        "name": "difh",
+        "trans": [
+            "地方"
+        ]
+    },
+    {
+        "name": "zozl",
+        "trans": [
+            "坐在"
+        ]
+    },
+    {
+        "name": "kc",
+        "trans": [
+            "块"
+        ]
+    },
+    {
+        "name": "jwei",
+        "trans": [
+            "坚持"
+        ]
+    },
+    {
+        "name": "jibf",
+        "trans": [
+            "基本"
+        ]
+    },
+    {
+        "name": "vgyc",
+        "trans": [
+            "声音"
+        ]
+    },
+    {
+        "name": "do",
+        "trans": [
+            "多"
+        ]
+    },
+    {
+        "name": "dovk",
+        "trans": [
+            "多少"
+        ]
+    },
+    {
+        "name": "dovk",
+        "trans": [
+            "多少"
+        ]
+    },
+    {
+        "name": "da",
+        "trans": [
+            "大"
+        ]
+    },
+    {
+        "name": "da",
+        "trans": [
+            "大"
+        ]
+    },
+    {
+        "name": "daxm",
+        "trans": [
+            "大学"
+        ]
+    },
+    {
+        "name": "dajd",
+        "trans": [
+            "大家"
+        ]
+    },
+    {
+        "name": "dajd",
+        "trans": [
+            "大家"
+        ]
+    },
+    {
+        "name": "dagl",
+        "trans": [
+            "大概"
+        ]
+    },
+    {
+        "name": "tw",
+        "trans": [
+            "天"
+        ]
+    },
+    {
+        "name": "tl",
+        "trans": [
+            "太"
+        ]
+    },
+    {
+        "name": "tldo",
+        "trans": [
+            "太多"
+        ]
+    },
+    {
+        "name": "tltl",
+        "trans": [
+            "太太"
+        ]
+    },
+    {
+        "name": "tb",
+        "trans": [
+            "头"
+        ]
+    },
+    {
+        "name": "nv",
+        "trans": [
+            "女"
+        ]
+    },
+    {
+        "name": "nvrf",
+        "trans": [
+            "女人"
+        ]
+    },
+    {
+        "name": "nvor",
+        "trans": [
+            "女儿"
+        ]
+    },
+    {
+        "name": "nvhl",
+        "trans": [
+            "女孩"
+        ]
+    },
+    {
+        "name": "nvvg",
+        "trans": [
+            "女生"
+        ]
+    },
+    {
+        "name": "ta",
+        "trans": [
+            "她"
+        ]
+    },
+    {
+        "name": "hk",
+        "trans": [
+            "好"
+        ]
+    },
+    {
+        "name": "hkxt",
+        "trans": [
+            "好像"
+        ]
+    },
+    {
+        "name": "hkxt",
+        "trans": [
+            "好像"
+        ]
+    },
+    {
+        "name": "hkei",
+        "trans": [
+            "好吃"
+        ]
+    },
+    {
+        "name": "hkkj",
+        "trans": [
+            "好看"
+        ]
+    },
+    {
+        "name": "ru",
+        "trans": [
+            "如"
+        ]
+    },
+    {
+        "name": "ruhe",
+        "trans": [
+            "如何"
+        ]
+    },
+    {
+        "name": "rugo",
+        "trans": [
+            "如果"
+        ]
+    },
+    {
+        "name": "rugo",
+        "trans": [
+            "如果"
+        ]
+    },
+    {
+        "name": "ma",
+        "trans": [
+            "妈"
+        ]
+    },
+    {
+        "name": "mama",
+        "trans": [
+            "妈妈"
+        ]
+    },
+    {
+        "name": "mama",
+        "trans": [
+            "妈妈"
+        ]
+    },
+    {
+        "name": "gunt",
+        "trans": [
+            "姑娘"
+        ]
+    },
+    {
+        "name": "zi",
+        "trans": [
+            "子"
+        ]
+    },
+    {
+        "name": "zi",
+        "trans": [
+            "字"
+        ]
+    },
+    {
+        "name": "cnzl",
+        "trans": [
+            "存在"
+        ]
+    },
+    {
+        "name": "xm",
+        "trans": [
+            "学"
+        ]
+    },
+    {
+        "name": "xmxi",
+        "trans": [
+            "学习"
+        ]
+    },
+    {
+        "name": "xmxz",
+        "trans": [
+            "学校"
+        ]
+    },
+    {
+        "name": "xmvg",
+        "trans": [
+            "学生"
+        ]
+    },
+    {
+        "name": "hlzi",
+        "trans": [
+            "孩子"
+        ]
+    },
+    {
+        "name": "hlzi",
+        "trans": [
+            "孩子"
+        ]
+    },
+    {
+        "name": "ta",
+        "trans": [
+            "它"
+        ]
+    },
+    {
+        "name": "wj",
+        "trans": [
+            "完"
+        ]
+    },
+    {
+        "name": "wjqp",
+        "trans": [
+            "完全"
+        ]
+    },
+    {
+        "name": "wjqp",
+        "trans": [
+            "完全"
+        ]
+    },
+    {
+        "name": "jd",
+        "trans": [
+            "家"
+        ]
+    },
+    {
+        "name": "jdli",
+        "trans": [
+            "家里"
+        ]
+    },
+    {
+        "name": "jdli",
+        "trans": [
+            "家里"
+        ]
+    },
+    {
+        "name": "rsyi",
+        "trans": [
+            "容易"
+        ]
+    },
+    {
+        "name": "dm",
+        "trans": [
+            "对"
+        ]
+    },
+    {
+        "name": "dm",
+        "trans": [
+            "对"
+        ]
+    },
+    {
+        "name": "dmyu",
+        "trans": [
+            "对于"
+        ]
+    },
+    {
+        "name": "dmfh",
+        "trans": [
+            "对方"
+        ]
+    },
+    {
+        "name": "jt",
+        "trans": [
+            "将"
+        ]
+    },
+    {
+        "name": "xz",
+        "trans": [
+            "小"
+        ]
+    },
+    {
+        "name": "xzjx",
+        "trans": [
+            "小姐"
+        ]
+    },
+    {
+        "name": "xzvi",
+        "trans": [
+            "小时"
+        ]
+    },
+    {
+        "name": "vk",
+        "trans": [
+            "少"
+        ]
+    },
+    {
+        "name": "jr",
+        "trans": [
+            "就"
+        ]
+    },
+    {
+        "name": "jr",
+        "trans": [
+            "就"
+        ]
+    },
+    {
+        "name": "jrvi",
+        "trans": [
+            "就是"
+        ]
+    },
+    {
+        "name": "sm",
+        "trans": [
+            "岁"
+        ]
+    },
+    {
+        "name": "gszo",
+        "trans": [
+            "工作"
+        ]
+    },
+    {
+        "name": "gszo",
+        "trans": [
+            "工作"
+        ]
+    },
+    {
+        "name": "zoyb",
+        "trans": [
+            "左右"
+        ]
+    },
+    {
+        "name": "yijy",
+        "trans": [
+            "已经"
+        ]
+    },
+    {
+        "name": "yijy",
+        "trans": [
+            "已经"
+        ]
+    },
+    {
+        "name": "xiwh",
+        "trans": [
+            "希望"
+        ]
+    },
+    {
+        "name": "xiwh",
+        "trans": [
+            "希望"
+        ]
+    },
+    {
+        "name": "dl",
+        "trans": [
+            "带"
+        ]
+    },
+    {
+        "name": "dlae",
+        "trans": [
+            "带着"
+        ]
+    },
+    {
+        "name": "bh",
+        "trans": [
+            "帮"
+        ]
+    },
+    {
+        "name": "gj",
+        "trans": [
+            "干"
+        ]
+    },
+    {
+        "name": "nw",
+        "trans": [
+            "年"
+        ]
+    },
+    {
+        "name": "nw",
+        "trans": [
+            "年"
+        ]
+    },
+    {
+        "name": "nwqy",
+        "trans": [
+            "年轻"
+        ]
+    },
+    {
+        "name": "by",
+        "trans": [
+            "并"
+        ]
+    },
+    {
+        "name": "bybu",
+        "trans": [
+            "并不"
+        ]
+    },
+    {
+        "name": "byqx",
+        "trans": [
+            "并且"
+        ]
+    },
+    {
+        "name": "yygl",
+        "trans": [
+            "应该"
+        ]
+    },
+    {
+        "name": "yygl",
+        "trans": [
+            "应该"
+        ]
+    },
+    {
+        "name": "dw",
+        "trans": [
+            "店"
+        ]
+    },
+    {
+        "name": "dwpu",
+        "trans": [
+            "店铺"
+        ]
+    },
+    {
+        "name": "jwyi",
+        "trans": [
+            "建议"
+        ]
+    },
+    {
+        "name": "kl",
+        "trans": [
+            "开"
+        ]
+    },
+    {
+        "name": "klvi",
+        "trans": [
+            "开始"
+        ]
+    },
+    {
+        "name": "klvi",
+        "trans": [
+            "开始"
+        ]
+    },
+    {
+        "name": "klxc",
+        "trans": [
+            "开心"
+        ]
+    },
+    {
+        "name": "ah",
+        "trans": [
+            "张"
+        ]
+    },
+    {
+        "name": "dh",
+        "trans": [
+            "当"
+        ]
+    },
+    {
+        "name": "dhvi",
+        "trans": [
+            "当时"
+        ]
+    },
+    {
+        "name": "dhrj",
+        "trans": [
+            "当然"
+        ]
+    },
+    {
+        "name": "dhrj",
+        "trans": [
+            "当然"
+        ]
+    },
+    {
+        "name": "yyxt",
+        "trans": [
+            "影响"
+        ]
+    },
+    {
+        "name": "hf",
+        "trans": [
+            "很"
+        ]
+    },
+    {
+        "name": "hfdo",
+        "trans": [
+            "很多"
+        ]
+    },
+    {
+        "name": "hfhk",
+        "trans": [
+            "很好"
+        ]
+    },
+    {
+        "name": "de",
+        "trans": [
+            "得"
+        ]
+    },
+    {
+        "name": "de",
+        "trans": [
+            "得"
+        ]
+    },
+    {
+        "name": "dehf",
+        "trans": [
+            "得很"
+        ]
+    },
+    {
+        "name": "wqxc",
+        "trans": [
+            "微信"
+        ]
+    },
+    {
+        "name": "xc",
+        "trans": [
+            "心"
+        ]
+    },
+    {
+        "name": "xcli",
+        "trans": [
+            "心里"
+        ]
+    },
+    {
+        "name": "xcli",
+        "trans": [
+            "心里"
+        ]
+    },
+    {
+        "name": "bixu",
+        "trans": [
+            "必须"
+        ]
+    },
+    {
+        "name": "kc",
+        "trans": [
+            "快"
+        ]
+    },
+    {
+        "name": "hurj",
+        "trans": [
+            "忽然"
+        ]
+    },
+    {
+        "name": "zfme",
+        "trans": [
+            "怎么"
+        ]
+    },
+    {
+        "name": "zfme",
+        "trans": [
+            "怎么"
+        ]
+    },
+    {
+        "name": "zfyh",
+        "trans": [
+            "怎样"
+        ]
+    },
+    {
+        "name": "pa",
+        "trans": [
+            "怕"
+        ]
+    },
+    {
+        "name": "zsvi",
+        "trans": [
+            "总是"
+        ]
+    },
+    {
+        "name": "qykt",
+        "trans": [
+            "情况"
+        ]
+    },
+    {
+        "name": "qykt",
+        "trans": [
+            "情况"
+        ]
+    },
+    {
+        "name": "xt",
+        "trans": [
+            "想"
+        ]
+    },
+    {
+        "name": "xtdk",
+        "trans": [
+            "想到"
+        ]
+    },
+    {
+        "name": "xtyk",
+        "trans": [
+            "想要"
+        ]
+    },
+    {
+        "name": "xtqi",
+        "trans": [
+            "想起"
+        ]
+    },
+    {
+        "name": "yisi",
+        "trans": [
+            "意思"
+        ]
+    },
+    {
+        "name": "gj",
+        "trans": [
+            "感"
+        ]
+    },
+    {
+        "name": "gjdk",
+        "trans": [
+            "感到"
+        ]
+    },
+    {
+        "name": "gjqy",
+        "trans": [
+            "感情"
+        ]
+    },
+    {
+        "name": "gjjm",
+        "trans": [
+            "感觉"
+        ]
+    },
+    {
+        "name": "gjjm",
+        "trans": [
+            "感觉"
+        ]
+    },
+    {
+        "name": "eg",
+        "trans": [
+            "成"
+        ]
+    },
+    {
+        "name": "egwq",
+        "trans": [
+            "成为"
+        ]
+    },
+    {
+        "name": "wo",
+        "trans": [
+            "我"
+        ]
+    },
+    {
+        "name": "wo",
+        "trans": [
+            "我"
+        ]
+    },
+    {
+        "name": "womf",
+        "trans": [
+            "我们"
+        ]
+    },
+    {
+        "name": "womf",
+        "trans": [
+            "我们"
+        ]
+    },
+    {
+        "name": "ho",
+        "trans": [
+            "或"
+        ]
+    },
+    {
+        "name": "hoae",
+        "trans": [
+            "或者"
+        ]
+    },
+    {
+        "name": "so",
+        "trans": [
+            "所"
+        ]
+    },
+    {
+        "name": "soyi",
+        "trans": [
+            "所以"
+        ]
+    },
+    {
+        "name": "soyi",
+        "trans": [
+            "所以"
+        ]
+    },
+    {
+        "name": "soyb",
+        "trans": [
+            "所有"
+        ]
+    },
+    {
+        "name": "soyb",
+        "trans": [
+            "所有"
+        ]
+    },
+    {
+        "name": "vb",
+        "trans": [
+            "手"
+        ]
+    },
+    {
+        "name": "vbji",
+        "trans": [
+            "手机"
+        ]
+    },
+    {
+        "name": "vbli",
+        "trans": [
+            "手里"
+        ]
+    },
+    {
+        "name": "cl",
+        "trans": [
+            "才"
+        ]
+    },
+    {
+        "name": "clng",
+        "trans": [
+            "才能"
+        ]
+    },
+    {
+        "name": "da",
+        "trans": [
+            "打"
+        ]
+    },
+    {
+        "name": "dakl",
+        "trans": [
+            "打开"
+        ]
+    },
+    {
+        "name": "ak",
+        "trans": [
+            "找"
+        ]
+    },
+    {
+        "name": "akdk",
+        "trans": [
+            "找到"
+        ]
+    },
+    {
+        "name": "jing",
+        "trans": [
+            "技能"
+        ]
+    },
+    {
+        "name": "ba",
+        "trans": [
+            "把"
+        ]
+    },
+    {
+        "name": "pl",
+        "trans": [
+            "拍"
+        ]
+    },
+    {
+        "name": "na",
+        "trans": [
+            "拿"
+        ]
+    },
+    {
+        "name": "ty",
+        "trans": [
+            "挺"
+        ]
+    },
+    {
+        "name": "hp",
+        "trans": [
+            "换"
+        ]
+    },
+    {
+        "name": "tmjw",
+        "trans": [
+            "推荐"
+        ]
+    },
+    {
+        "name": "dapq",
+        "trans": [
+            "搭配"
+        ]
+    },
+    {
+        "name": "aiei",
+        "trans": [
+            "支持"
+        ]
+    },
+    {
+        "name": "fh",
+        "trans": [
+            "放"
+        ]
+    },
+    {
+        "name": "guvi",
+        "trans": [
+            "故事"
+        ]
+    },
+    {
+        "name": "xzgo",
+        "trans": [
+            "效果"
+        ]
+    },
+    {
+        "name": "agge",
+        "trans": [
+            "整个"
+        ]
+    },
+    {
+        "name": "wfah",
+        "trans": [
+            "文章"
+        ]
+    },
+    {
+        "name": "xc",
+        "trans": [
+            "新"
+        ]
+    },
+    {
+        "name": "fhbw",
+        "trans": [
+            "方便"
+        ]
+    },
+    {
+        "name": "fhvi",
+        "trans": [
+            "方式"
+        ]
+    },
+    {
+        "name": "fhfa",
+        "trans": [
+            "方法"
+        ]
+    },
+    {
+        "name": "wu",
+        "trans": [
+            "无"
+        ]
+    },
+    {
+        "name": "wufa",
+        "trans": [
+            "无法"
+        ]
+    },
+    {
+        "name": "ri",
+        "trans": [
+            "日"
+        ]
+    },
+    {
+        "name": "rizi",
+        "trans": [
+            "日子"
+        ]
+    },
+    {
+        "name": "vi",
+        "trans": [
+            "时"
+        ]
+    },
+    {
+        "name": "vi",
+        "trans": [
+            "时"
+        ]
+    },
+    {
+        "name": "vihb",
+        "trans": [
+            "时候"
+        ]
+    },
+    {
+        "name": "vihb",
+        "trans": [
+            "时候"
+        ]
+    },
+    {
+        "name": "vijw",
+        "trans": [
+            "时间"
+        ]
+    },
+    {
+        "name": "vijw",
+        "trans": [
+            "时间"
+        ]
+    },
+    {
+        "name": "mybl",
+        "trans": [
+            "明白"
+        ]
+    },
+    {
+        "name": "vi",
+        "trans": [
+            "是"
+        ]
+    },
+    {
+        "name": "vi",
+        "trans": [
+            "是"
+        ]
+    },
+    {
+        "name": "vibuvi",
+        "trans": [
+            "是不是"
+        ]
+    },
+    {
+        "name": "viycwq",
+        "trans": [
+            "是因为"
+        ]
+    },
+    {
+        "name": "xwvi",
+        "trans": [
+            "显示"
+        ]
+    },
+    {
+        "name": "wjvh",
+        "trans": [
+            "晚上"
+        ]
+    },
+    {
+        "name": "wjvh",
+        "trans": [
+            "晚上"
+        ]
+    },
+    {
+        "name": "gg",
+        "trans": [
+            "更"
+        ]
+    },
+    {
+        "name": "ggdo",
+        "trans": [
+            "更多"
+        ]
+    },
+    {
+        "name": "ggxc",
+        "trans": [
+            "更新"
+        ]
+    },
+    {
+        "name": "zm",
+        "trans": [
+            "最"
+        ]
+    },
+    {
+        "name": "zmhb",
+        "trans": [
+            "最后"
+        ]
+    },
+    {
+        "name": "zmhb",
+        "trans": [
+            "最后"
+        ]
+    },
+    {
+        "name": "zmhk",
+        "trans": [
+            "最好"
+        ]
+    },
+    {
+        "name": "zmjc",
+        "trans": [
+            "最近"
+        ]
+    },
+    {
+        "name": "ym",
+        "trans": [
+            "月"
+        ]
+    },
+    {
+        "name": "yb",
+        "trans": [
+            "有"
+        ]
+    },
+    {
+        "name": "yb",
+        "trans": [
+            "有"
+        ]
+    },
+    {
+        "name": "ybxx",
+        "trans": [
+            "有些"
+        ]
+    },
+    {
+        "name": "ybxx",
+        "trans": [
+            "有些"
+        ]
+    },
+    {
+        "name": "ybrf",
+        "trans": [
+            "有人"
+        ]
+    },
+    {
+        "name": "ybvf",
+        "trans": [
+            "有什"
+        ]
+    },
+    {
+        "name": "ybdw",
+        "trans": [
+            "有点"
+        ]
+    },
+    {
+        "name": "ybdw",
+        "trans": [
+            "有点"
+        ]
+    },
+    {
+        "name": "pgyb",
+        "trans": [
+            "朋友"
+        ]
+    },
+    {
+        "name": "pgyb",
+        "trans": [
+            "朋友"
+        ]
+    },
+    {
+        "name": "whae",
+        "trans": [
+            "望着"
+        ]
+    },
+    {
+        "name": "bf",
+        "trans": [
+            "本"
+        ]
+    },
+    {
+        "name": "tz",
+        "trans": [
+            "条"
+        ]
+    },
+    {
+        "name": "ll",
+        "trans": [
+            "来"
+        ]
+    },
+    {
+        "name": "ll",
+        "trans": [
+            "来"
+        ]
+    },
+    {
+        "name": "llvo",
+        "trans": [
+            "来说"
+        ]
+    },
+    {
+        "name": "yhzi",
+        "trans": [
+            "样子"
+        ]
+    },
+    {
+        "name": "yhzi",
+        "trans": [
+            "样子"
+        ]
+    },
+    {
+        "name": "ci",
+        "trans": [
+            "次"
+        ]
+    },
+    {
+        "name": "kp",
+        "trans": [
+            "款"
+        ]
+    },
+    {
+        "name": "agzl",
+        "trans": [
+            "正在"
+        ]
+    },
+    {
+        "name": "si",
+        "trans": [
+            "死"
+        ]
+    },
+    {
+        "name": "muqc",
+        "trans": [
+            "母亲"
+        ]
+    },
+    {
+        "name": "mq",
+        "trans": [
+            "每"
+        ]
+    },
+    {
+        "name": "mqge",
+        "trans": [
+            "每个"
+        ]
+    },
+    {
+        "name": "mqtw",
+        "trans": [
+            "每天"
+        ]
+    },
+    {
+        "name": "mqci",
+        "trans": [
+            "每次"
+        ]
+    },
+    {
+        "name": "bi",
+        "trans": [
+            "比"
+        ]
+    },
+    {
+        "name": "biru",
+        "trans": [
+            "比如"
+        ]
+    },
+    {
+        "name": "bijz",
+        "trans": [
+            "比较"
+        ]
+    },
+    {
+        "name": "bijy",
+        "trans": [
+            "毕竟"
+        ]
+    },
+    {
+        "name": "vm",
+        "trans": [
+            "水"
+        ]
+    },
+    {
+        "name": "mq",
+        "trans": [
+            "没"
+        ]
+    },
+    {
+        "name": "mqyb",
+        "trans": [
+            "没有"
+        ]
+    },
+    {
+        "name": "mqyb",
+        "trans": [
+            "没有"
+        ]
+    },
+    {
+        "name": "auyi",
+        "trans": [
+            "注意"
+        ]
+    },
+    {
+        "name": "tkbk",
+        "trans": [
+            "淘宝"
+        ]
+    },
+    {
+        "name": "qyeu",
+        "trans": [
+            "清楚"
+        ]
+    },
+    {
+        "name": "ybxi",
+        "trans": [
+            "游戏"
+        ]
+    },
+    {
+        "name": "dw",
+        "trans": [
+            "点"
+        ]
+    },
+    {
+        "name": "rjhb",
+        "trans": [
+            "然后"
+        ]
+    },
+    {
+        "name": "rjhb",
+        "trans": [
+            "然后"
+        ]
+    },
+    {
+        "name": "rjor",
+        "trans": [
+            "然而"
+        ]
+    },
+    {
+        "name": "akpw",
+        "trans": [
+            "照片"
+        ]
+    },
+    {
+        "name": "l",
+        "trans": [
+            "爱"
+        ]
+    },
+    {
+        "name": "fuqc",
+        "trans": [
+            "父亲"
+        ]
+    },
+    {
+        "name": "fumu",
+        "trans": [
+            "父母"
+        ]
+    },
+    {
+        "name": "baba",
+        "trans": [
+            "爸爸"
+        ]
+    },
+    {
+        "name": "tebx",
+        "trans": [
+            "特别"
+        ]
+    },
+    {
+        "name": "gb",
+        "trans": [
+            "狗"
+        ]
+    },
+    {
+        "name": "wj",
+        "trans": [
+            "玩"
+        ]
+    },
+    {
+        "name": "xwzl",
+        "trans": [
+            "现在"
+        ]
+    },
+    {
+        "name": "xwzl",
+        "trans": [
+            "现在"
+        ]
+    },
+    {
+        "name": "lijx",
+        "trans": [
+            "理解"
+        ]
+    },
+    {
+        "name": "vfai",
+        "trans": [
+            "甚至"
+        ]
+    },
+    {
+        "name": "vfai",
+        "trans": [
+            "甚至"
+        ]
+    },
+    {
+        "name": "vg",
+        "trans": [
+            "生"
+        ]
+    },
+    {
+        "name": "vg",
+        "trans": [
+            "生"
+        ]
+    },
+    {
+        "name": "vgho",
+        "trans": [
+            "生活"
+        ]
+    },
+    {
+        "name": "vgho",
+        "trans": [
+            "生活"
+        ]
+    },
+    {
+        "name": "ys",
+        "trans": [
+            "用"
+        ]
+    },
+    {
+        "name": "dwhd",
+        "trans": [
+            "电话"
+        ]
+    },
+    {
+        "name": "nj",
+        "trans": [
+            "男"
+        ]
+    },
+    {
+        "name": "njrf",
+        "trans": [
+            "男人"
+        ]
+    },
+    {
+        "name": "njrf",
+        "trans": [
+            "男人"
+        ]
+    },
+    {
+        "name": "njpgyb",
+        "trans": [
+            "男朋友"
+        ]
+    },
+    {
+        "name": "njvg",
+        "trans": [
+            "男生"
+        ]
+    },
+    {
+        "name": "de",
+        "trans": [
+            "的"
+        ]
+    },
+    {
+        "name": "de",
+        "trans": [
+            "的"
+        ]
+    },
+    {
+        "name": "dehd",
+        "trans": [
+            "的话"
+        ]
+    },
+    {
+        "name": "pifu",
+        "trans": [
+            "皮肤"
+        ]
+    },
+    {
+        "name": "muqw",
+        "trans": [
+            "目前"
+        ]
+    },
+    {
+        "name": "aijx",
+        "trans": [
+            "直接"
+        ]
+    },
+    {
+        "name": "xtxc",
+        "trans": [
+            "相信"
+        ]
+    },
+    {
+        "name": "xtxc",
+        "trans": [
+            "相信"
+        ]
+    },
+    {
+        "name": "kj",
+        "trans": [
+            "看"
+        ]
+    },
+    {
+        "name": "kjdk",
+        "trans": [
+            "看到"
+        ]
+    },
+    {
+        "name": "kjdk",
+        "trans": [
+            "看到"
+        ]
+    },
+    {
+        "name": "kjkj",
+        "trans": [
+            "看看"
+        ]
+    },
+    {
+        "name": "kjkj",
+        "trans": [
+            "看看"
+        ]
+    },
+    {
+        "name": "kjae",
+        "trans": [
+            "看着"
+        ]
+    },
+    {
+        "name": "kjjw",
+        "trans": [
+            "看见"
+        ]
+    },
+    {
+        "name": "af",
+        "trans": [
+            "真"
+        ]
+    },
+    {
+        "name": "afde",
+        "trans": [
+            "真的"
+        ]
+    },
+    {
+        "name": "yjjy",
+        "trans": [
+            "眼睛"
+        ]
+    },
+    {
+        "name": "ae",
+        "trans": [
+            "着"
+        ]
+    },
+    {
+        "name": "ae",
+        "trans": [
+            "着"
+        ]
+    },
+    {
+        "name": "ai",
+        "trans": [
+            "知"
+        ]
+    },
+    {
+        "name": "aidk",
+        "trans": [
+            "知道"
+        ]
+    },
+    {
+        "name": "aidk",
+        "trans": [
+            "知道"
+        ]
+    },
+    {
+        "name": "likl",
+        "trans": [
+            "离开"
+        ]
+    },
+    {
+        "name": "as",
+        "trans": [
+            "种"
+        ]
+    },
+    {
+        "name": "ep",
+        "trans": [
+            "穿"
+        ]
+    },
+    {
+        "name": "turj",
+        "trans": [
+            "突然"
+        ]
+    },
+    {
+        "name": "turj",
+        "trans": [
+            "突然"
+        ]
+    },
+    {
+        "name": "aj",
+        "trans": [
+            "站"
+        ]
+    },
+    {
+        "name": "ajzl",
+        "trans": [
+            "站在"
+        ]
+    },
+    {
+        "name": "xz",
+        "trans": [
+            "笑"
+        ]
+    },
+    {
+        "name": "xzae",
+        "trans": [
+            "笑着"
+        ]
+    },
+    {
+        "name": "di",
+        "trans": [
+            "第"
+        ]
+    },
+    {
+        "name": "diyi",
+        "trans": [
+            "第一"
+        ]
+    },
+    {
+        "name": "diyi",
+        "trans": [
+            "第一"
+        ]
+    },
+    {
+        "name": "dior",
+        "trans": [
+            "第二"
+        ]
+    },
+    {
+        "name": "dior",
+        "trans": [
+            "第二"
+        ]
+    },
+    {
+        "name": "dg",
+        "trans": [
+            "等"
+        ]
+    },
+    {
+        "name": "jwdj",
+        "trans": [
+            "简单"
+        ]
+    },
+    {
+        "name": "pw",
+        "trans": [
+            "篇"
+        ]
+    },
+    {
+        "name": "lq",
+        "trans": [
+            "类"
+        ]
+    },
+    {
+        "name": "xilx",
+        "trans": [
+            "系列"
+        ]
+    },
+    {
+        "name": "hs",
+        "trans": [
+            "红"
+        ]
+    },
+    {
+        "name": "xw",
+        "trans": [
+            "线"
+        ]
+    },
+    {
+        "name": "asyu",
+        "trans": [
+            "终于"
+        ]
+    },
+    {
+        "name": "asyu",
+        "trans": [
+            "终于"
+        ]
+    },
+    {
+        "name": "jyli",
+        "trans": [
+            "经历"
+        ]
+    },
+    {
+        "name": "jyeh",
+        "trans": [
+            "经常"
+        ]
+    },
+    {
+        "name": "jxgo",
+        "trans": [
+            "结果"
+        ]
+    },
+    {
+        "name": "gq",
+        "trans": [
+            "给"
+        ]
+    },
+    {
+        "name": "gqni",
+        "trans": [
+            "给你"
+        ]
+    },
+    {
+        "name": "jmdm",
+        "trans": [
+            "绝对"
+        ]
+    },
+    {
+        "name": "jixu",
+        "trans": [
+            "继续"
+        ]
+    },
+    {
+        "name": "whaj",
+        "trans": [
+            "网站"
+        ]
+    },
+    {
+        "name": "mq",
+        "trans": [
+            "美"
+        ]
+    },
+    {
+        "name": "lk",
+        "trans": [
+            "老"
+        ]
+    },
+    {
+        "name": "lkgs",
+        "trans": [
+            "老公"
+        ]
+    },
+    {
+        "name": "lkvi",
+        "trans": [
+            "老师"
+        ]
+    },
+    {
+        "name": "lkvi",
+        "trans": [
+            "老师"
+        ]
+    },
+    {
+        "name": "lkbj",
+        "trans": [
+            "老板"
+        ]
+    },
+    {
+        "name": "or",
+        "trans": [
+            "而"
+        ]
+    },
+    {
+        "name": "or",
+        "trans": [
+            "而"
+        ]
+    },
+    {
+        "name": "orqx",
+        "trans": [
+            "而且"
+        ]
+    },
+    {
+        "name": "orqx",
+        "trans": [
+            "而且"
+        ]
+    },
+    {
+        "name": "orvi",
+        "trans": [
+            "而是"
+        ]
+    },
+    {
+        "name": "lztw",
+        "trans": [
+            "聊天"
+        ]
+    },
+    {
+        "name": "kfdy",
+        "trans": [
+            "肯定"
+        ]
+    },
+    {
+        "name": "ng",
+        "trans": [
+            "能"
+        ]
+    },
+    {
+        "name": "ng",
+        "trans": [
+            "能"
+        ]
+    },
+    {
+        "name": "ngli",
+        "trans": [
+            "能力"
+        ]
+    },
+    {
+        "name": "nggb",
+        "trans": [
+            "能够"
+        ]
+    },
+    {
+        "name": "lw",
+        "trans": [
+            "脸"
+        ]
+    },
+    {
+        "name": "lwvh",
+        "trans": [
+            "脸上"
+        ]
+    },
+    {
+        "name": "zi",
+        "trans": [
+            "自"
+        ]
+    },
+    {
+        "name": "ziji",
+        "trans": [
+            "自己"
+        ]
+    },
+    {
+        "name": "ziji",
+        "trans": [
+            "自己"
+        ]
+    },
+    {
+        "name": "zirj",
+        "trans": [
+            "自然"
+        ]
+    },
+    {
+        "name": "hd",
+        "trans": [
+            "花"
+        ]
+    },
+    {
+        "name": "yyyu",
+        "trans": [
+            "英语"
+        ]
+    },
+    {
+        "name": "smrj",
+        "trans": [
+            "虽然"
+        ]
+    },
+    {
+        "name": "smrj",
+        "trans": [
+            "虽然"
+        ]
+    },
+    {
+        "name": "yifu",
+        "trans": [
+            "衣服"
+        ]
+    },
+    {
+        "name": "yifu",
+        "trans": [
+            "衣服"
+        ]
+    },
+    {
+        "name": "bq",
+        "trans": [
+            "被"
+        ]
+    },
+    {
+        "name": "at",
+        "trans": [
+            "装"
+        ]
+    },
+    {
+        "name": "yk",
+        "trans": [
+            "要"
+        ]
+    },
+    {
+        "name": "yk",
+        "trans": [
+            "要"
+        ]
+    },
+    {
+        "name": "ykqr",
+        "trans": [
+            "要求"
+        ]
+    },
+    {
+        "name": "jw",
+        "trans": [
+            "见"
+        ]
+    },
+    {
+        "name": "vipc",
+        "trans": [
+            "视频"
+        ]
+    },
+    {
+        "name": "jmde",
+        "trans": [
+            "觉得"
+        ]
+    },
+    {
+        "name": "jmde",
+        "trans": [
+            "觉得"
+        ]
+    },
+    {
+        "name": "rfwq",
+        "trans": [
+            "认为"
+        ]
+    },
+    {
+        "name": "rh",
+        "trans": [
+            "让"
+        ]
+    },
+    {
+        "name": "rhta",
+        "trans": [
+            "让他"
+        ]
+    },
+    {
+        "name": "rhwo",
+        "trans": [
+            "让我"
+        ]
+    },
+    {
+        "name": "jide",
+        "trans": [
+            "记得"
+        ]
+    },
+    {
+        "name": "jt",
+        "trans": [
+            "讲"
+        ]
+    },
+    {
+        "name": "xudo",
+        "trans": [
+            "许多"
+        ]
+    },
+    {
+        "name": "veji",
+        "trans": [
+            "设计"
+        ]
+    },
+    {
+        "name": "pyln",
+        "trans": [
+            "评论"
+        ]
+    },
+    {
+        "name": "hd",
+        "trans": [
+            "话"
+        ]
+    },
+    {
+        "name": "gl",
+        "trans": [
+            "该"
+        ]
+    },
+    {
+        "name": "vo",
+        "trans": [
+            "说"
+        ]
+    },
+    {
+        "name": "vo",
+        "trans": [
+            "说"
+        ]
+    },
+    {
+        "name": "vohd",
+        "trans": [
+            "说话"
+        ]
+    },
+    {
+        "name": "qy",
+        "trans": [
+            "请"
+        ]
+    },
+    {
+        "name": "vq",
+        "trans": [
+            "谁"
+        ]
+    },
+    {
+        "name": "gbml",
+        "trans": [
+            "购买"
+        ]
+    },
+    {
+        "name": "zj",
+        "trans": [
+            "赞"
+        ]
+    },
+    {
+        "name": "zb",
+        "trans": [
+            "走"
+        ]
+    },
+    {
+        "name": "zbdk",
+        "trans": [
+            "走到"
+        ]
+    },
+    {
+        "name": "qi",
+        "trans": [
+            "起"
+        ]
+    },
+    {
+        "name": "qill",
+        "trans": [
+            "起来"
+        ]
+    },
+    {
+        "name": "qill",
+        "trans": [
+            "起来"
+        ]
+    },
+    {
+        "name": "ek",
+        "trans": [
+            "超"
+        ]
+    },
+    {
+        "name": "ekji",
+        "trans": [
+            "超级"
+        ]
+    },
+    {
+        "name": "ym",
+        "trans": [
+            "越"
+        ]
+    },
+    {
+        "name": "gf",
+        "trans": [
+            "跟"
+        ]
+    },
+    {
+        "name": "vfvh",
+        "trans": [
+            "身上"
+        ]
+    },
+    {
+        "name": "vfti",
+        "trans": [
+            "身体"
+        ]
+    },
+    {
+        "name": "vfbw",
+        "trans": [
+            "身边"
+        ]
+    },
+    {
+        "name": "rpjw",
+        "trans": [
+            "软件"
+        ]
+    },
+    {
+        "name": "go",
+        "trans": [
+            "过"
+        ]
+    },
+    {
+        "name": "goqu",
+        "trans": [
+            "过去"
+        ]
+    },
+    {
+        "name": "goqu",
+        "trans": [
+            "过去"
+        ]
+    },
+    {
+        "name": "goll",
+        "trans": [
+            "过来"
+        ]
+    },
+    {
+        "name": "goeg",
+        "trans": [
+            "过程"
+        ]
+    },
+    {
+        "name": "hl",
+        "trans": [
+            "还"
+        ]
+    },
+    {
+        "name": "hlvi",
+        "trans": [
+            "还是"
+        ]
+    },
+    {
+        "name": "hlvi",
+        "trans": [
+            "还是"
+        ]
+    },
+    {
+        "name": "hlyb",
+        "trans": [
+            "还有"
+        ]
+    },
+    {
+        "name": "hlyb",
+        "trans": [
+            "还有"
+        ]
+    },
+    {
+        "name": "hlmq",
+        "trans": [
+            "还没"
+        ]
+    },
+    {
+        "name": "ae",
+        "trans": [
+            "这"
+        ]
+    },
+    {
+        "name": "ae",
+        "trans": [
+            "这"
+        ]
+    },
+    {
+        "name": "aege",
+        "trans": [
+            "这个"
+        ]
+    },
+    {
+        "name": "aege",
+        "trans": [
+            "这个"
+        ]
+    },
+    {
+        "name": "aeme",
+        "trans": [
+            "这么"
+        ]
+    },
+    {
+        "name": "aeme",
+        "trans": [
+            "这么"
+        ]
+    },
+    {
+        "name": "aexx",
+        "trans": [
+            "这些"
+        ]
+    },
+    {
+        "name": "aexx",
+        "trans": [
+            "这些"
+        ]
+    },
+    {
+        "name": "aeyh",
+        "trans": [
+            "这样"
+        ]
+    },
+    {
+        "name": "aeyh",
+        "trans": [
+            "这样"
+        ]
+    },
+    {
+        "name": "aekp",
+        "trans": [
+            "这款"
+        ]
+    },
+    {
+        "name": "aeas",
+        "trans": [
+            "这种"
+        ]
+    },
+    {
+        "name": "aeas",
+        "trans": [
+            "这种"
+        ]
+    },
+    {
+        "name": "aeli",
+        "trans": [
+            "这里"
+        ]
+    },
+    {
+        "name": "jcxy",
+        "trans": [
+            "进行"
+        ]
+    },
+    {
+        "name": "lw",
+        "trans": [
+            "连"
+        ]
+    },
+    {
+        "name": "ss",
+        "trans": [
+            "送"
+        ]
+    },
+    {
+        "name": "vihe",
+        "trans": [
+            "适合"
+        ]
+    },
+    {
+        "name": "xp",
+        "trans": [
+            "选"
+        ]
+    },
+    {
+        "name": "xpze",
+        "trans": [
+            "选择"
+        ]
+    },
+    {
+        "name": "tsgo",
+        "trans": [
+            "通过"
+        ]
+    },
+    {
+        "name": "yudk",
+        "trans": [
+            "遇到"
+        ]
+    },
+    {
+        "name": "dk",
+        "trans": [
+            "道"
+        ]
+    },
+    {
+        "name": "dk",
+        "trans": [
+            "道"
+        ]
+    },
+    {
+        "name": "na",
+        "trans": [
+            "那"
+        ]
+    },
+    {
+        "name": "na",
+        "trans": [
+            "那"
+        ]
+    },
+    {
+        "name": "nage",
+        "trans": [
+            "那个"
+        ]
+    },
+    {
+        "name": "nage",
+        "trans": [
+            "那个"
+        ]
+    },
+    {
+        "name": "name",
+        "trans": [
+            "那么"
+        ]
+    },
+    {
+        "name": "name",
+        "trans": [
+            "那么"
+        ]
+    },
+    {
+        "name": "naxx",
+        "trans": [
+            "那些"
+        ]
+    },
+    {
+        "name": "naxx",
+        "trans": [
+            "那些"
+        ]
+    },
+    {
+        "name": "nayh",
+        "trans": [
+            "那样"
+        ]
+    },
+    {
+        "name": "naas",
+        "trans": [
+            "那种"
+        ]
+    },
+    {
+        "name": "naas",
+        "trans": [
+            "那种"
+        ]
+    },
+    {
+        "name": "buff",
+        "trans": [
+            "部分"
+        ]
+    },
+    {
+        "name": "db",
+        "trans": [
+            "都"
+        ]
+    },
+    {
+        "name": "dbhm",
+        "trans": [
+            "都会"
+        ]
+    },
+    {
+        "name": "li",
+        "trans": [
+            "里"
+        ]
+    },
+    {
+        "name": "li",
+        "trans": [
+            "里"
+        ]
+    },
+    {
+        "name": "limw",
+        "trans": [
+            "里面"
+        ]
+    },
+    {
+        "name": "asyk",
+        "trans": [
+            "重要"
+        ]
+    },
+    {
+        "name": "qw",
+        "trans": [
+            "钱"
+        ]
+    },
+    {
+        "name": "ah",
+        "trans": [
+            "长"
+        ]
+    },
+    {
+        "name": "mfkb",
+        "trans": [
+            "门口"
+        ]
+    },
+    {
+        "name": "wf",
+        "trans": [
+            "问"
+        ]
+    },
+    {
+        "name": "wfti",
+        "trans": [
+            "问题"
+        ]
+    },
+    {
+        "name": "wfti",
+        "trans": [
+            "问题"
+        ]
+    },
+    {
+        "name": "ymdu",
+        "trans": [
+            "阅读"
+        ]
+    },
+    {
+        "name": "eule",
+        "trans": [
+            "除了"
+        ]
+    },
+    {
+        "name": "xuyk",
+        "trans": [
+            "需要"
+        ]
+    },
+    {
+        "name": "xuyk",
+        "trans": [
+            "需要"
+        ]
+    },
+    {
+        "name": "fqeh",
+        "trans": [
+            "非常"
+        ]
+    },
+    {
+        "name": "fqeh",
+        "trans": [
+            "非常"
+        ]
+    },
+    {
+        "name": "mw",
+        "trans": [
+            "面"
+        ]
+    },
+    {
+        "name": "mwqw",
+        "trans": [
+            "面前"
+        ]
+    },
+    {
+        "name": "xx",
+        "trans": [
+            "鞋"
+        ]
+    },
+    {
+        "name": "ycle",
+        "trans": [
+            "音乐"
+        ]
+    },
+    {
+        "name": "lydk",
+        "trans": [
+            "领导"
+        ]
+    },
+    {
+        "name": "yjse",
+        "trans": [
+            "颜色"
+        ]
+    },
+    {
+        "name": "fgge",
+        "trans": [
+            "风格"
+        ]
+    },
+    {
+        "name": "vbxw",
+        "trans": [
+            "首先"
+        ]
+    },
+    {
+        "name": "mavh",
+        "trans": [
+            "马上"
+        ]
+    },
+    {
+        "name": "gk",
+        "trans": [
+            "高"
+        ]
+    },
+    {
+        "name": "gkxy",
+        "trans": [
+            "高兴"
+        ]
+    }
+]

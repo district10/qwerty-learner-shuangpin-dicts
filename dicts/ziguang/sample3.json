@@ -1,0 +1,5048 @@
+[
+    {
+        "name": "bkyesid;li",
+        "trans": [
+            "贝叶斯定理 Bayes' theorem"
+        ]
+    },
+    {
+        "name": "bkspojquxf",
+        "trans": [
+            "贝塞尔曲线 Bezier curve"
+        ]
+    },
+    {
+        "name": "kmj;",
+        "trans": [
+            "Blub 困境 Blub paradox"
+        ]
+    },
+    {
+        "name": "toftiidaxbxd",
+        "trans": [
+            "驼峰式大小写 CamelCase"
+        ]
+    },
+    {
+        "name": "thyhwsgljdkz",
+        "trans": [
+            "通用网关接口 Common Gateway Interface, CGI"
+        ]
+    },
+    {
+        "name": "dnxgxith",
+        "trans": [
+            "Common Lisp 对象系统 Common Lisp Object System, CLOS"
+        ]
+    },
+    {
+        "name": "diyu",
+        "trans": [
+            "DLL 地狱 DLL hell"
+        ]
+    },
+    {
+        "name": "mkgogofsbugqjiyrjjjihxju",
+        "trans": [
+            "美国国防部高级研究计划局 Defense Advanced Research Projects Agency, DARPA"
+        ]
+    },
+    {
+        "name": "gelysiprdiiid;lv",
+        "trans": [
+            "格林斯潘第十定律 Greenspun's tenth rule"
+        ]
+    },
+    {
+        "name": "aqwwbwbbjiyuyr",
+        "trans": [
+            "超文本标记语言 HyperText Markup Language, HTML"
+        ]
+    },
+    {
+        "name": "aqwwbwaliuxdyi",
+        "trans": [
+            "超文本传输协议 HyperText Transfer Protocol, HTTP"
+        ]
+    },
+    {
+        "name": "chm;rwdeyuyr",
+        "trans": [
+            "聪明人的语言 Language For Smart People, LFSP"
+        ]
+    },
+    {
+        "name": "moojd;lv",
+        "trans": [
+            "摩尔定律 Moore's law"
+        ]
+    },
+    {
+        "name": "douhxunicmau",
+        "trans": [
+            "多重虚拟存储 Multiple Virtual Storage, MVS"
+        ]
+    },
+    {
+        "name": "qkamutidqylze",
+        "trans": [
+            "奥卡姆剃刀原则 Occam's razor"
+        ]
+    },
+    {
+        "name": "pajyswfaze",
+        "trans": [
+            "帕金森法则 Parkinson's law"
+        ]
+    },
+    {
+        "name": "j;jfuil;xithjislji",
+        "trans": [
+            "精简指令系统计算机 Reduced Instruction Set Computer, RISC"
+        ]
+    },
+    {
+        "name": "rhyudulicipruwld",
+        "trans": [
+            "冗余独立磁盘阵列 Redundant Array of Independent Disks, RAID"
+        ]
+    },
+    {
+        "name": "bbdaii",
+        "trans": [
+            "S-表达式 S-expression"
+        ]
+    },
+    {
+        "name": "jfjbiiiedidaxd",
+        "trans": [
+            "尖叫式蛇底大写 SCREAMING_SNAKE_CASE"
+        ]
+    },
+    {
+        "name": "rqltqjdzict",
+        "trans": [
+            "安全套接字层 Secure Sockets Layer, SSL"
+        ]
+    },
+    {
+        "name": "uwlidedrdfx;",
+        "trans": [
+            "真理的单点性 Single Point of Truth, SPOT"
+        ]
+    },
+    {
+        "name": "xithwslotixi",
+        "trans": [
+            "系统网络体系 System Network Architecture, SNA"
+        ]
+    },
+    {
+        "name": "xlzemjlm",
+        "trans": [
+            "选择谬论 The Paradox of Choice"
+        ]
+    },
+    {
+        "name": "tul;wrbk",
+        "trans": [
+            "图灵完备 Turing complete"
+        ]
+    },
+    {
+        "name": "tul;ji",
+        "trans": [
+            "图灵机 Turing machine"
+        ]
+    },
+    {
+        "name": "thyiziyld;wkfu",
+        "trans": [
+            "统一资源定位符 Uniform Resource Locator, URL"
+        ]
+    },
+    {
+        "name": "sojfjisode",
+        "trans": [
+            "所见即所得 What You See Is What You Get, WYSIWYG"
+        ]
+    },
+    {
+        "name": "sojfjisoxg",
+        "trans": [
+            "所见即所想 What You See Is What You Want, WYSIWYW"
+        ]
+    },
+    {
+        "name": "zuhezi",
+        "trans": [
+            "Y组合子 Y combinator"
+        ]
+    },
+    {
+        "name": "bbdaii",
+        "trans": [
+            "Z-表达式 Z-expression"
+        ]
+    },
+    {
+        "name": "yikyuiuw",
+        "trans": [
+            "一块指针 a block of pointers"
+        ]
+    },
+    {
+        "name": "solnyu",
+        "trans": [
+            "缩略语 abbreviation"
+        ]
+    },
+    {
+        "name": "azxgde",
+        "trans": [
+            "抽象的 abstract"
+        ]
+    },
+    {
+        "name": "azxgyufaiu",
+        "trans": [
+            "抽象语法树 abstract syntax tree, AST"
+        ]
+    },
+    {
+        "name": "azxg",
+        "trans": [
+            "抽象 abstraction"
+        ]
+    },
+    {
+        "name": "azxgp;us",
+        "trans": [
+            "抽象屏障 abstraction barrier"
+        ]
+    },
+    {
+        "name": "hriudbyhazxg",
+        "trans": [
+            "函数调用抽象 abstraction of function calls"
+        ]
+    },
+    {
+        "name": "fsww",
+        "trans": [
+            "访问 access"
+        ]
+    },
+    {
+        "name": "fswwhriu",
+        "trans": [
+            "访问函数 access function"
+        ]
+    },
+    {
+        "name": "lkjxqi",
+        "trans": [
+            "累加器 accumulator"
+        ]
+    },
+    {
+        "name": "jiho",
+        "trans": [
+            "激活 activate"
+        ]
+    },
+    {
+        "name": "ulie",
+        "trans": [
+            "专设 ad hoc"
+        ]
+    },
+    {
+        "name": "iipkqi",
+        "trans": [
+            "适配器 adapter"
+        ]
+    },
+    {
+        "name": "diui",
+        "trans": [
+            "地址 address"
+        ]
+    },
+    {
+        "name": "dpiuiujulkx;",
+        "trans": [
+            "代数数据类型 algebraic data type"
+        ]
+    },
+    {
+        "name": "slfa",
+        "trans": [
+            "算法 algorithm"
+        ]
+    },
+    {
+        "name": "bdm;",
+        "trans": [
+            "别名 alias"
+        ]
+    },
+    {
+        "name": "fwpk",
+        "trans": [
+            "分配 allocate"
+        ]
+    },
+    {
+        "name": "bkxl",
+        "trans": [
+            "备选 alternative"
+        ]
+    },
+    {
+        "name": "p;trfwxi",
+        "trans": [
+            "平摊分析 amortized analysis"
+        ]
+    },
+    {
+        "name": "uidp",
+        "trans": [
+            "指代 anaphoric"
+        ]
+    },
+    {
+        "name": "uujd",
+        "trans": [
+            "注解 annotation"
+        ]
+    },
+    {
+        "name": "nim;hriu",
+        "trans": [
+            "匿名函数 anonymous function"
+        ]
+    },
+    {
+        "name": "qfti",
+        "trans": [
+            "前提 antecedent"
+        ]
+    },
+    {
+        "name": "unjx",
+        "trans": [
+            "追加 append"
+        ]
+    },
+    {
+        "name": "y;yh",
+        "trans": [
+            "应用 application"
+        ]
+    },
+    {
+        "name": "y;yhkgjx",
+        "trans": [
+            "应用框架 application framework"
+        ]
+    },
+    {
+        "name": "y;yhatxubfatjdkz",
+        "trans": [
+            "应用程序编程接口 application program interface, API"
+        ]
+    },
+    {
+        "name": "y;yhatxufuwutighis",
+        "trans": [
+            "应用程序服务提供商 application service provider, ASP"
+        ]
+    },
+    {
+        "name": "y;yhxu",
+        "trans": [
+            "应用序 applicative"
+        ]
+    },
+    {
+        "name": "criu",
+        "trans": [
+            "参数 argument"
+        ]
+    },
+    {
+        "name": "sliu",
+        "trans": [
+            "算术 arithmetic"
+        ]
+    },
+    {
+        "name": "iuzu",
+        "trans": [
+            "数组 array"
+        ]
+    },
+    {
+        "name": "rwghuint",
+        "trans": [
+            "人工智能 artificial intelligence, AI"
+        ]
+    },
+    {
+        "name": "zuhe",
+        "trans": [
+            "组合 assemble"
+        ]
+    },
+    {
+        "name": "hnbf",
+        "trans": [
+            "汇编 assembly"
+        ]
+    },
+    {
+        "name": "fuui",
+        "trans": [
+            "赋值 assignment"
+        ]
+    },
+    {
+        "name": "fuuicqzofu",
+        "trans": [
+            "赋值操作符 assignment operator"
+        ]
+    },
+    {
+        "name": "gllfde",
+        "trans": [
+            "关联的 associated"
+        ]
+    },
+    {
+        "name": "gllfldbb",
+        "trans": [
+            "关联列表 association list, alist"
+        ]
+    },
+    {
+        "name": "ylzi",
+        "trans": [
+            "原子 atom"
+        ]
+    },
+    {
+        "name": "ylzide",
+        "trans": [
+            "原子的 atomic"
+        ]
+    },
+    {
+        "name": "ylzix;ui",
+        "trans": [
+            "原子型值 atomic value"
+        ]
+    },
+    {
+        "name": "iux;",
+        "trans": [
+            "属性 attribute"
+        ]
+    },
+    {
+        "name": "koah",
+        "trans": [
+            "扩充 augmented"
+        ]
+    },
+    {
+        "name": "zidhnkcmglli",
+        "trans": [
+            "自动内存管理 automatic memory management"
+        ]
+    },
+    {
+        "name": "zidhtndq",
+        "trans": [
+            "自动推导 automatically infer"
+        ]
+    },
+    {
+        "name": "zidhjililm",
+        "trans": [
+            "自动机理论 autometa theory"
+        ]
+    },
+    {
+        "name": "fuuu",
+        "trans": [
+            "辅助 auxiliary"
+        ]
+    },
+    {
+        "name": "fryyyh",
+        "trans": [
+            "反引用 backquote"
+        ]
+    },
+    {
+        "name": "hnsu",
+        "trans": [
+            "回溯 backtrace"
+        ]
+    },
+    {
+        "name": "xgxxjfrh",
+        "trans": [
+            "向下兼容 backward compatible"
+        ]
+    },
+    {
+        "name": "dpkl",
+        "trans": [
+            "带宽 bandwidth"
+        ]
+    },
+    {
+        "name": "jibwq;x;",
+        "trans": [
+            "基本情形 base case"
+        ]
+    },
+    {
+        "name": "jilk",
+        "trans": [
+            "基类 base class"
+        ]
+    },
+    {
+        "name": "znjxkex;hrii",
+        "trans": [
+            "最佳可行函式 best viable function"
+        ]
+    },
+    {
+        "name": "daiu",
+        "trans": [
+            "大数 bignum"
+        ]
+    },
+    {
+        "name": "ojylcqzofu",
+        "trans": [
+            "二元操作符 binary operator"
+        ]
+    },
+    {
+        "name": "ojfwaauq",
+        "trans": [
+            "二分查找 binary search"
+        ]
+    },
+    {
+        "name": "ojaaszsoiu",
+        "trans": [
+            "二叉搜索树 binary search tree"
+        ]
+    },
+    {
+        "name": "ojaaiu",
+        "trans": [
+            "二叉树 binary tree"
+        ]
+    },
+    {
+        "name": "bsd;",
+        "trans": [
+            "绑定 binding"
+        ]
+    },
+    {
+        "name": "bsd;xglg",
+        "trans": [
+            "绑定向量 binding vector"
+        ]
+    },
+    {
+        "name": "wkcqzo",
+        "trans": [
+            "位操作 bit manipulation"
+        ]
+    },
+    {
+        "name": "hkxgazxg",
+        "trans": [
+            "黑箱抽象 black box abstraction"
+        ]
+    },
+    {
+        "name": "dpmakym;zi",
+        "trans": [
+            "代码块名字 block name"
+        ]
+    },
+    {
+        "name": "kyjdgz",
+        "trans": [
+            "块结构 block structure"
+        ]
+    },
+    {
+        "name": "ghiihx",
+        "trans": [
+            "公式化 boilerplate"
+        ]
+    },
+    {
+        "name": "buji",
+        "trans": [
+            "簿记 bookkeeping"
+        ]
+    },
+    {
+        "name": "buoj",
+        "trans": [
+            "布尔 boolean"
+        ]
+    },
+    {
+        "name": "bfkg",
+        "trans": [
+            "边框 border"
+        ]
+    },
+    {
+        "name": "zidixgisdeieji",
+        "trans": [
+            "自底向上的设计 bottom-up design"
+        ]
+    },
+    {
+        "name": "zidixgisbfat",
+        "trans": [
+            "自底向上编程 bottom-up programming"
+        ]
+    },
+    {
+        "name": "bfjd",
+        "trans": [
+            "边界 bound"
+        ]
+    },
+    {
+        "name": "bfjdjfaa",
+        "trans": [
+            "边界检查 bounds checking"
+        ]
+    },
+    {
+        "name": "xgzibbiifa",
+        "trans": [
+            "箱子表示法 box notation"
+        ]
+    },
+    {
+        "name": "hxkohu",
+        "trans": [
+            "花括弧 brace"
+        ]
+    },
+    {
+        "name": "fskohu",
+        "trans": [
+            "方括弧 bracket"
+        ]
+    },
+    {
+        "name": "fwui",
+        "trans": [
+            "分支 branch"
+        ]
+    },
+    {
+        "name": "ggduyzxf",
+        "trans": [
+            "广度优先 breadth-first"
+        ]
+    },
+    {
+        "name": "ggduyzxfszso",
+        "trans": [
+            "广度优先搜索 breadth-first search, BFS"
+        ]
+    },
+    {
+        "name": "dldf",
+        "trans": [
+            "断点 breakpoint"
+        ]
+    },
+    {
+        "name": "jfjd",
+        "trans": [
+            "简洁 brevity"
+        ]
+    },
+    {
+        "name": "hlahqu",
+        "trans": [
+            "缓冲区 buffer"
+        ]
+    },
+    {
+        "name": "hlahquyiaughji",
+        "trans": [
+            "缓冲区溢出攻击 buffer overflow attack"
+        ]
+    },
+    {
+        "name": "azah",
+        "trans": [
+            "臭虫 bug"
+        ]
+    },
+    {
+        "name": "agjf",
+        "trans": [
+            "创建 building"
+        ]
+    },
+    {
+        "name": "nkui",
+        "trans": [
+            "内置 built-in"
+        ]
+    },
+    {
+        "name": "zijd",
+        "trans": [
+            "字节 byte"
+        ]
+    },
+    {
+        "name": "zijdma",
+        "trans": [
+            "字节码 bytecode"
+        ]
+    },
+    {
+        "name": "hlcm",
+        "trans": [
+            "缓存 cache"
+        ]
+    },
+    {
+        "name": "dbyh",
+        "trans": [
+            "调用 call"
+        ]
+    },
+    {
+        "name": "hndb",
+        "trans": [
+            "回调 callback"
+        ]
+    },
+    {
+        "name": "hzxlhriu",
+        "trans": [
+            "候选函数 candidate function"
+        ]
+    },
+    {
+        "name": "buuo",
+        "trans": [
+            "捕捉 capture"
+        ]
+    },
+    {
+        "name": "fwui",
+        "trans": [
+            "分支 case"
+        ]
+    },
+    {
+        "name": "zifu",
+        "trans": [
+            "字符 character"
+        ]
+    },
+    {
+        "name": "xbyrhe",
+        "trans": [
+            "校验和 checksum"
+        ]
+    },
+    {
+        "name": "zilk",
+        "trans": [
+            "子类 child class"
+        ]
+    },
+    {
+        "name": "uispdf",
+        "trans": [
+            "滞塞点 choke point"
+        ]
+    },
+    {
+        "name": "ky",
+        "trans": [
+            "块 chunk"
+        ]
+    },
+    {
+        "name": "xmhld;yi",
+        "trans": [
+            "循环定义 circular definition"
+        ]
+    },
+    {
+        "name": "q;xi",
+        "trans": [
+            "清晰 clarity"
+        ]
+    },
+    {
+        "name": "lk",
+        "trans": [
+            "类 class"
+        ]
+    },
+    {
+        "name": "lkitm;",
+        "trans": [
+            "类声明 class declaration"
+        ]
+    },
+    {
+        "name": "lkku",
+        "trans": [
+            "类库 class library"
+        ]
+    },
+    {
+        "name": "kehu",
+        "trans": [
+            "客户 client"
+        ]
+    },
+    {
+        "name": "jftdbr",
+        "trans": [
+            "剪贴板 clipboard"
+        ]
+    },
+    {
+        "name": "kelh",
+        "trans": [
+            "克隆 clone"
+        ]
+    },
+    {
+        "name": "ftbiiijdjxd;",
+        "trans": [
+            "封闭世界假定 closed world assumption"
+        ]
+    },
+    {
+        "name": "bibq",
+        "trans": [
+            "闭包 closure"
+        ]
+    },
+    {
+        "name": "zall",
+        "trans": [
+            "杂乱 clutter"
+        ]
+    },
+    {
+        "name": "dpma",
+        "trans": [
+            "代码 code"
+        ]
+    },
+    {
+        "name": "dpmaptus",
+        "trans": [
+            "代码膨胀 code bloat"
+        ]
+    },
+    {
+        "name": "izjiqi",
+        "trans": [
+            "收集器 collection"
+        ]
+    },
+    {
+        "name": "x;",
+        "trans": [
+            "行 column"
+        ]
+    },
+    {
+        "name": "x;uuxu",
+        "trans": [
+            "行主序 column-major order"
+        ]
+    },
+    {
+        "name": "dzhq",
+        "trans": [
+            "逗号 comma"
+        ]
+    },
+    {
+        "name": "m;l;x;",
+        "trans": [
+            "命令行 command-line"
+        ]
+    },
+    {
+        "name": "m;l;x;jdmf",
+        "trans": [
+            "命令行界面 command-line interface, CLI"
+        ]
+    },
+    {
+        "name": "jfrh",
+        "trans": [
+            "兼容 compatible"
+        ]
+    },
+    {
+        "name": "bfyi",
+        "trans": [
+            "编译 compilation"
+        ]
+    },
+    {
+        "name": "bfyicriu",
+        "trans": [
+            "编译参数 compilation parameter"
+        ]
+    },
+    {
+        "name": "bfyi",
+        "trans": [
+            "编译 compile"
+        ]
+    },
+    {
+        "name": "nklfbfyi",
+        "trans": [
+            "内联编译 compile inline"
+        ]
+    },
+    {
+        "name": "bfyiqi",
+        "trans": [
+            "编译期 compile time"
+        ]
+    },
+    {
+        "name": "bfyihzdex;ii",
+        "trans": [
+            "编译后的形式 compiled form"
+        ]
+    },
+    {
+        "name": "bfyiqi",
+        "trans": [
+            "编译器 compiler"
+        ]
+    },
+    {
+        "name": "fuza",
+        "trans": [
+            "复杂 complex"
+        ]
+    },
+    {
+        "name": "fuzadu",
+        "trans": [
+            "复杂度 complexity"
+        ]
+    },
+    {
+        "name": "buji",
+        "trans": [
+            "补集 compliment"
+        ]
+    },
+    {
+        "name": "zujf",
+        "trans": [
+            "组件 component"
+        ]
+    },
+    {
+        "name": "kezuhex;",
+        "trans": [
+            "可组合性 composability"
+        ]
+    },
+    {
+        "name": "zuhe",
+        "trans": [
+            "组合 composition"
+        ]
+    },
+    {
+        "name": "fuheiuju",
+        "trans": [
+            "复合数据 compound value"
+        ]
+    },
+    {
+        "name": "yaso",
+        "trans": [
+            "压缩 compression"
+        ]
+    },
+    {
+        "name": "jisl",
+        "trans": [
+            "计算 computation"
+        ]
+    },
+    {
+        "name": "jislji",
+        "trans": [
+            "计算机 computer"
+        ]
+    },
+    {
+        "name": "aljd",
+        "trans": [
+            "串接 concatenation"
+        ]
+    },
+    {
+        "name": "gpnf",
+        "trans": [
+            "概念 concept"
+        ]
+    },
+    {
+        "name": "juti",
+        "trans": [
+            "具体 concrete"
+        ]
+    },
+    {
+        "name": "b;fa",
+        "trans": [
+            "并发 concurrency"
+        ]
+    },
+    {
+        "name": "b;fa",
+        "trans": [
+            "并发 concurrent"
+        ]
+    },
+    {
+        "name": "tbjfii",
+        "trans": [
+            "条件式 conditional"
+        ]
+    },
+    {
+        "name": "tbjfbflg",
+        "trans": [
+            "条件变量 conditional variable"
+        ]
+    },
+    {
+        "name": "pkui",
+        "trans": [
+            "配置 configuration"
+        ]
+    },
+    {
+        "name": "lfjd",
+        "trans": [
+            "连接 connection"
+        ]
+    },
+    {
+        "name": "gzzq",
+        "trans": [
+            "构造 cons"
+        ]
+    },
+    {
+        "name": "gzyl",
+        "trans": [
+            "构元 cons cell"
+        ]
+    },
+    {
+        "name": "jdgo",
+        "trans": [
+            "结果 consequent"
+        ]
+    },
+    {
+        "name": "yiuix;",
+        "trans": [
+            "一致性 consistent"
+        ]
+    },
+    {
+        "name": "aslg",
+        "trans": [
+            "常量 constant"
+        ]
+    },
+    {
+        "name": "yniu",
+        "trans": [
+            "约束 constraint"
+        ]
+    },
+    {
+        "name": "yniuiibfat",
+        "trans": [
+            "约束式编程 constraint programming"
+        ]
+    },
+    {
+        "name": "rhqi",
+        "trans": [
+            "容器 container"
+        ]
+    },
+    {
+        "name": "jiyunkrhdegolv",
+        "trans": [
+            "基于内容的过滤 content-based filtering"
+        ]
+    },
+    {
+        "name": "isxxww",
+        "trans": [
+            "上下文 context"
+        ]
+    },
+    {
+        "name": "yrxux;",
+        "trans": [
+            "延续性 continuation"
+        ]
+    },
+    {
+        "name": "aixujiat",
+        "trans": [
+            "持续集成 continuous integration, CI"
+        ]
+    },
+    {
+        "name": "khjf",
+        "trans": [
+            "控件 control"
+        ]
+    },
+    {
+        "name": "xdzoiidorwwu",
+        "trans": [
+            "协作式多任务 cooperative multitasking"
+        ]
+    },
+    {
+        "name": "kqbk",
+        "trans": [
+            "拷贝 copy"
+        ]
+    },
+    {
+        "name": "tnlm",
+        "trans": [
+            "推论 corollary"
+        ]
+    },
+    {
+        "name": "xdat",
+        "trans": [
+            "协程 coroutine"
+        ]
+    },
+    {
+        "name": "atxubtkn",
+        "trans": [
+            "程序崩溃 corruption"
+        ]
+    },
+    {
+        "name": "btkn",
+        "trans": [
+            "崩溃 crash"
+        ]
+    },
+    {
+        "name": "agjf",
+        "trans": [
+            "创建 create"
+        ]
+    },
+    {
+        "name": "guhx",
+        "trans": [
+            "固化 crystallize"
+        ]
+    },
+    {
+        "name": "kohuugde",
+        "trans": [
+            "括弧状的 curly"
+        ]
+    },
+    {
+        "name": "kelide",
+        "trans": [
+            "柯里的 curried"
+        ]
+    },
+    {
+        "name": "kelihx",
+        "trans": [
+            "柯里化 currying"
+        ]
+    },
+    {
+        "name": "ggbb",
+        "trans": [
+            "光标 cursor"
+        ]
+    },
+    {
+        "name": "jlqude",
+        "trans": [
+            "卷曲的 curvy"
+        ]
+    },
+    {
+        "name": "uzqi",
+        "trans": [
+            "周期 cycle"
+        ]
+    },
+    {
+        "name": "mituuiuw",
+        "trans": [
+            "迷途指针 dangling pointer"
+        ]
+    },
+    {
+        "name": "iuju",
+        "trans": [
+            "数据 data"
+        ]
+    },
+    {
+        "name": "iujujdgz",
+        "trans": [
+            "数据结构 data structure"
+        ]
+    },
+    {
+        "name": "iujulkx;",
+        "trans": [
+            "数据类型 data type"
+        ]
+    },
+    {
+        "name": "iujuqudh",
+        "trans": [
+            "数据驱动 data-driven"
+        ]
+    },
+    {
+        "name": "iujuku",
+        "trans": [
+            "数据库 database"
+        ]
+    },
+    {
+        "name": "iujukumoii",
+        "trans": [
+            "数据库模式 database schema"
+        ]
+    },
+    {
+        "name": "iujubqww",
+        "trans": [
+            "数据报文 datagram"
+        ]
+    },
+    {
+        "name": "siso",
+        "trans": [
+            "死锁 dead lock"
+        ]
+    },
+    {
+        "name": "dbii",
+        "trans": [
+            "调试 debug"
+        ]
+    },
+    {
+        "name": "dbiiqi",
+        "trans": [
+            "调试器 debugger"
+        ]
+    },
+    {
+        "name": "dbii",
+        "trans": [
+            "调试 debugging"
+        ]
+    },
+    {
+        "name": "itm;",
+        "trans": [
+            "声明 declaration"
+        ]
+    },
+    {
+        "name": "itm;x;ii",
+        "trans": [
+            "声明形式 declaration forms"
+        ]
+    },
+    {
+        "name": "itm;ii",
+        "trans": [
+            "声明式 declarative"
+        ]
+    },
+    {
+        "name": "itm;iiuiii",
+        "trans": [
+            "声明式知识 declarative knowledge"
+        ]
+    },
+    {
+        "name": "itm;iibfat",
+        "trans": [
+            "声明式编程 declarative programming"
+        ]
+    },
+    {
+        "name": "keitm;x;",
+        "trans": [
+            "可声明性 declarativeness"
+        ]
+    },
+    {
+        "name": "itm;",
+        "trans": [
+            "声明 declaring"
+        ]
+    },
+    {
+        "name": "jdgz",
+        "trans": [
+            "解构 deconstruction"
+        ]
+    },
+    {
+        "name": "tndq",
+        "trans": [
+            "推导 deduction"
+        ]
+    },
+    {
+        "name": "qnit",
+        "trans": [
+            "缺省 default"
+        ]
+    },
+    {
+        "name": "tnai",
+        "trans": [
+            "推迟 defer"
+        ]
+    },
+    {
+        "name": "qnxf",
+        "trans": [
+            "缺陷 deficiency"
+        ]
+    },
+    {
+        "name": "d;yi",
+        "trans": [
+            "定义 define"
+        ]
+    },
+    {
+        "name": "d;yi",
+        "trans": [
+            "定义 definition"
+        ]
+    },
+    {
+        "name": "wkto",
+        "trans": [
+            "委托 delegate"
+        ]
+    },
+    {
+        "name": "iifs",
+        "trans": [
+            "释放 dellocate"
+        ]
+    },
+    {
+        "name": "srji",
+        "trans": [
+            "散集 demarshal"
+        ]
+    },
+    {
+        "name": "fkqi",
+        "trans": [
+            "废弃 deprecated"
+        ]
+    },
+    {
+        "name": "iwduyzxf",
+        "trans": [
+            "深度优先 depth-first"
+        ]
+    },
+    {
+        "name": "iwduyzxfszso",
+        "trans": [
+            "深度优先搜索 depth-first search, BFS"
+        ]
+    },
+    {
+        "name": "ppit",
+        "trans": [
+            "派生 derived"
+        ]
+    },
+    {
+        "name": "ppitlk",
+        "trans": [
+            "派生类 derived class"
+        ]
+    },
+    {
+        "name": "iejimoii",
+        "trans": [
+            "设计模式 design pattern"
+        ]
+    },
+    {
+        "name": "uiiifu",
+        "trans": [
+            "指示符 designator"
+        ]
+    },
+    {
+        "name": "pohyx;de",
+        "trans": [
+            "破坏性的 destructive"
+        ]
+    },
+    {
+        "name": "pohyx;hriu",
+        "trans": [
+            "破坏性函数 destructive function"
+        ]
+    },
+    {
+        "name": "jdgz",
+        "trans": [
+            "解构 destructuring"
+        ]
+    },
+    {
+        "name": "y;jfqudhatxu",
+        "trans": [
+            "硬件驱动程序 device driver"
+        ]
+    },
+    {
+        "name": "wkdu",
+        "trans": [
+            "维度 dimensions"
+        ]
+    },
+    {
+        "name": "uil;",
+        "trans": [
+            "指令 directive"
+        ]
+    },
+    {
+        "name": "uiiifu",
+        "trans": [
+            "指示符 directive"
+        ]
+    },
+    {
+        "name": "mulu",
+        "trans": [
+            "目录 directory"
+        ]
+    },
+    {
+        "name": "fwpp",
+        "trans": [
+            "分派 dispatch"
+        ]
+    },
+    {
+        "name": "fwbuiijisl",
+        "trans": [
+            "分布式计算 distributed computing"
+        ]
+    },
+    {
+        "name": "wwds",
+        "trans": [
+            "文档 document"
+        ]
+    },
+    {
+        "name": "dfugldbb",
+        "trans": [
+            "点状列表 dotted list"
+        ]
+    },
+    {
+        "name": "dpdfwkbubbiifa",
+        "trans": [
+            "带点尾部表示法 dotted-pair notation"
+        ]
+    },
+    {
+        "name": "fubw",
+        "trans": [
+            "复本 duplicate"
+        ]
+    },
+    {
+        "name": "dhtpbsd;",
+        "trans": [
+            "动态绑定 dynamic binding"
+        ]
+    },
+    {
+        "name": "dhtpfrwk",
+        "trans": [
+            "动态范围 dynamic extent"
+        ]
+    },
+    {
+        "name": "dhtpyuyr",
+        "trans": [
+            "动态语言 dynamic languages"
+        ]
+    },
+    {
+        "name": "dhtpzoyhyu",
+        "trans": [
+            "动态作用域 dynamic scope"
+        ]
+    },
+    {
+        "name": "dhtplkx;",
+        "trans": [
+            "动态类型 dynamic type"
+        ]
+    },
+    {
+        "name": "xbgo",
+        "trans": [
+            "效果 effect"
+        ]
+    },
+    {
+        "name": "xblv",
+        "trans": [
+            "效率 efficiency"
+        ]
+    },
+    {
+        "name": "gqxb",
+        "trans": [
+            "高效 efficient"
+        ]
+    },
+    {
+        "name": "qfruiiyuyr",
+        "trans": [
+            "嵌入式语言 embedded language"
+        ]
+    },
+    {
+        "name": "fsuw",
+        "trans": [
+            "仿真 emulate"
+        ]
+    },
+    {
+        "name": "ftug",
+        "trans": [
+            "封装 encapsulation"
+        ]
+    },
+    {
+        "name": "mkju",
+        "trans": [
+            "枚举 enum"
+        ]
+    },
+    {
+        "name": "mkjulkx;",
+        "trans": [
+            "枚举类型 enumeration type"
+        ]
+    },
+    {
+        "name": "mkjuqi",
+        "trans": [
+            "枚举器 enumrators"
+        ]
+    },
+    {
+        "name": "hlj;",
+        "trans": [
+            "环境 environment"
+        ]
+    },
+    {
+        "name": "xgdt",
+        "trans": [
+            "相等 equal"
+        ]
+    },
+    {
+        "name": "xgdtx;",
+        "trans": [
+            "相等性 equality"
+        ]
+    },
+    {
+        "name": "fsat",
+        "trans": [
+            "方程 equation"
+        ]
+    },
+    {
+        "name": "dtjxx;",
+        "trans": [
+            "等价性 equivalence"
+        ]
+    },
+    {
+        "name": "cowuxyxi",
+        "trans": [
+            "错误信息 error message"
+        ]
+    },
+    {
+        "name": "cowujfaa",
+        "trans": [
+            "错误检查 error-checking"
+        ]
+    },
+    {
+        "name": "ulyizifu",
+        "trans": [
+            "转义字符 escape character"
+        ]
+    },
+    {
+        "name": "tqto",
+        "trans": [
+            "逃脱 escaped"
+        ]
+    },
+    {
+        "name": "qjui",
+        "trans": [
+            "求值 evaluate"
+        ]
+    },
+    {
+        "name": "qjui",
+        "trans": [
+            "求值 evaluation"
+        ]
+    },
+    {
+        "name": "iijf",
+        "trans": [
+            "事件 event"
+        ]
+    },
+    {
+        "name": "iijfqudh",
+        "trans": [
+            "事件驱动 event driven"
+        ]
+    },
+    {
+        "name": "yias",
+        "trans": [
+            "异常 exception"
+        ]
+    },
+    {
+        "name": "yiasauli",
+        "trans": [
+            "异常处理 exception handling"
+        ]
+    },
+    {
+        "name": "yiasgnfr",
+        "trans": [
+            "异常规范 exception specification"
+        ]
+    },
+    {
+        "name": "tnau",
+        "trans": [
+            "退出 exit"
+        ]
+    },
+    {
+        "name": "kekourde",
+        "trans": [
+            "可扩展的 expendable"
+        ]
+    },
+    {
+        "name": "xfii",
+        "trans": [
+            "显式 explicit"
+        ]
+    },
+    {
+        "name": "trsoiibfat",
+        "trans": [
+            "探索式编程 exploratory programming"
+        ]
+    },
+    {
+        "name": "dqau",
+        "trans": [
+            "导出 export"
+        ]
+    },
+    {
+        "name": "bbdaii",
+        "trans": [
+            "表达式 expression"
+        ]
+    },
+    {
+        "name": "bbdantli",
+        "trans": [
+            "表达能力 expressive power"
+        ]
+    },
+    {
+        "name": "kekourx;",
+        "trans": [
+            "可扩展性 extensibility"
+        ]
+    },
+    {
+        "name": "frwk",
+        "trans": [
+            "范围 extent"
+        ]
+    },
+    {
+        "name": "wpbubbiifa",
+        "trans": [
+            "外部表示法 external representation"
+        ]
+    },
+    {
+        "name": "jixfbfat",
+        "trans": [
+            "极限编程 extreme programming"
+        ]
+    },
+    {
+        "name": "jdat",
+        "trans": [
+            "阶乘 factorial"
+        ]
+    },
+    {
+        "name": "kex;de",
+        "trans": [
+            "可行的 feasible"
+        ]
+    },
+    {
+        "name": "tese",
+        "trans": [
+            "特色 feature"
+        ]
+    },
+    {
+        "name": "zidl",
+        "trans": [
+            "字段 field"
+        ]
+    },
+    {
+        "name": "wwjf",
+        "trans": [
+            "文件 file"
+        ]
+    },
+    {
+        "name": "wwjfjub;",
+        "trans": [
+            "文件句柄 file handle"
+        ]
+    },
+    {
+        "name": "tfahuiuw",
+        "trans": [
+            "填充指针 fill pointer"
+        ]
+    },
+    {
+        "name": "xilidu",
+        "trans": [
+            "细粒度 fineo-grained"
+        ]
+    },
+    {
+        "name": "gujf",
+        "trans": [
+            "固件 firmware"
+        ]
+    },
+    {
+        "name": "diyilkde",
+        "trans": [
+            "第一类的 first-class"
+        ]
+    },
+    {
+        "name": "diyijihriu",
+        "trans": [
+            "第一级函数 first-class function"
+        ]
+    },
+    {
+        "name": "diyilkdednxg",
+        "trans": [
+            "第一类的对象 first-class object"
+        ]
+    },
+    {
+        "name": "budhdf",
+        "trans": [
+            "不动点 fixed-point"
+        ]
+    },
+    {
+        "name": "d;usiu",
+        "trans": [
+            "定长数 fixnum"
+        ]
+    },
+    {
+        "name": "bbji",
+        "trans": [
+            "标记 flag"
+        ]
+    },
+    {
+        "name": "ircm",
+        "trans": [
+            "闪存 flash"
+        ]
+    },
+    {
+        "name": "l;hox;",
+        "trans": [
+            "灵活性 flexibility"
+        ]
+    },
+    {
+        "name": "fudfiu",
+        "trans": [
+            "浮点数 floating-point"
+        ]
+    },
+    {
+        "name": "fudfiubbiifa",
+        "trans": [
+            "浮点数表示法 floating-point notation"
+        ]
+    },
+    {
+        "name": "ixxy",
+        "trans": [
+            "刷新 flush"
+        ]
+    },
+    {
+        "name": "uedd",
+        "trans": [
+            "折叠 fold"
+        ]
+    },
+    {
+        "name": "ziti",
+        "trans": [
+            "字体 font"
+        ]
+    },
+    {
+        "name": "poii",
+        "trans": [
+            "迫使 force"
+        ]
+    },
+    {
+        "name": "x;ii",
+        "trans": [
+            "形式 form"
+        ]
+    },
+    {
+        "name": "bbdr",
+        "trans": [
+            "表单 form"
+        ]
+    },
+    {
+        "name": "x;cr",
+        "trans": [
+            "形参 formal parameter"
+        ]
+    },
+    {
+        "name": "x;iiglxi",
+        "trans": [
+            "形式关系 formal relation"
+        ]
+    },
+    {
+        "name": "ulfa",
+        "trans": [
+            "转发 forward"
+        ]
+    },
+    {
+        "name": "fwx;",
+        "trans": [
+            "分形 fractal"
+        ]
+    },
+    {
+        "name": "ppxi",
+        "trans": [
+            "派系 fractions"
+        ]
+    },
+    {
+        "name": "kgjx",
+        "trans": [
+            "框架 framework"
+        ]
+    },
+    {
+        "name": "ziyzrljf",
+        "trans": [
+            "自由软件 freeware"
+        ]
+    },
+    {
+        "name": "hriu",
+        "trans": [
+            "函数 function"
+        ]
+    },
+    {
+        "name": "hriuzimfaslg",
+        "trans": [
+            "函数字面常量 function literal"
+        ]
+    },
+    {
+        "name": "hriudnxg",
+        "trans": [
+            "函数对象 function object"
+        ]
+    },
+    {
+        "name": "hriux;criu",
+        "trans": [
+            "函数型参数 functional arguments"
+        ]
+    },
+    {
+        "name": "hriuiibfat",
+        "trans": [
+            "函数式编程 functional programming"
+        ]
+    },
+    {
+        "name": "ghntx;",
+        "trans": [
+            "功能性 functionality"
+        ]
+    },
+    {
+        "name": "yzxi",
+        "trans": [
+            "游戏 game"
+        ]
+    },
+    {
+        "name": "laji",
+        "trans": [
+            "垃圾 garbage"
+        ]
+    },
+    {
+        "name": "lajihniz",
+        "trans": [
+            "垃圾回收 garbage collection"
+        ]
+    },
+    {
+        "name": "lajihnizqi",
+        "trans": [
+            "垃圾回收器 garbage collector"
+        ]
+    },
+    {
+        "name": "frhx",
+        "trans": [
+            "泛化 generalized"
+        ]
+    },
+    {
+        "name": "ggyibflg",
+        "trans": [
+            "广义变量 generalized variable"
+        ]
+    },
+    {
+        "name": "itat",
+        "trans": [
+            "生成 generate"
+        ]
+    },
+    {
+        "name": "itatqi",
+        "trans": [
+            "生成器 generator"
+        ]
+    },
+    {
+        "name": "thyhde",
+        "trans": [
+            "通用的 generic"
+        ]
+    },
+    {
+        "name": "thyhslfa",
+        "trans": [
+            "通用算法 generic algorithm"
+        ]
+    },
+    {
+        "name": "thyhhriu",
+        "trans": [
+            "通用函数 generic function"
+        ]
+    },
+    {
+        "name": "thyhbfat",
+        "trans": [
+            "通用编程 generic programming"
+        ]
+    },
+    {
+        "name": "itariibfat",
+        "trans": [
+            "生产式编程 genrative programming"
+        ]
+    },
+    {
+        "name": "qljude",
+        "trans": [
+            "全局的 global"
+        ]
+    },
+    {
+        "name": "qljuitm;",
+        "trans": [
+            "全局声明 global declaration"
+        ]
+    },
+    {
+        "name": "jbinatxu",
+        "trans": [
+            "胶水程序 glue program"
+        ]
+    },
+    {
+        "name": "tbul",
+        "trans": [
+            "跳转 goto"
+        ]
+    },
+    {
+        "name": "tux;yhhujdmf",
+        "trans": [
+            "图形用户界面 graphical user interface, GUI"
+        ]
+    },
+    {
+        "name": "zndaghyyiu",
+        "trans": [
+            "最大公因数 greatest common divisor"
+        ]
+    },
+    {
+        "name": "pojd",
+        "trans": [
+            "破解 hack"
+        ]
+    },
+    {
+        "name": "hkke",
+        "trans": [
+            "黑客 hacker"
+        ]
+    },
+    {
+        "name": "auliqi",
+        "trans": [
+            "处理器 handle"
+        ]
+    },
+    {
+        "name": "y;pr",
+        "trans": [
+            "硬盘 hard disk"
+        ]
+    },
+    {
+        "name": "y;jf",
+        "trans": [
+            "硬件 hardware"
+        ]
+    },
+    {
+        "name": "haxibb",
+        "trans": [
+            "哈希表 hash tables"
+        ]
+    },
+    {
+        "name": "tzbu",
+        "trans": [
+            "头部 header"
+        ]
+    },
+    {
+        "name": "tzwwjf",
+        "trans": [
+            "头文件 header file"
+        ]
+    },
+    {
+        "name": "fuuuhriu",
+        "trans": [
+            "辅助函数 helper"
+        ]
+    },
+    {
+        "name": "qifaii",
+        "trans": [
+            "启发式 heuristic"
+        ]
+    },
+    {
+        "name": "gqjd",
+        "trans": [
+            "高阶 high-order"
+        ]
+    },
+    {
+        "name": "gqjdhriu",
+        "trans": [
+            "高阶函数 higher-order function"
+        ]
+    },
+    {
+        "name": "gqjdgoat",
+        "trans": [
+            "高阶过程 higher-order procedure"
+        ]
+    },
+    {
+        "name": "aqlfjd",
+        "trans": [
+            "超链接 hyperlink"
+        ]
+    },
+    {
+        "name": "yiui",
+        "trans": [
+            "一致 identical"
+        ]
+    },
+    {
+        "name": "bbiifu",
+        "trans": [
+            "标识符 identifier"
+        ]
+    },
+    {
+        "name": "thyix;",
+        "trans": [
+            "同一性 identity"
+        ]
+    },
+    {
+        "name": "lkx;buutqn",
+        "trans": [
+            "类型不正确 ill type"
+        ]
+    },
+    {
+        "name": "cojn",
+        "trans": [
+            "错觉 illusion"
+        ]
+    },
+    {
+        "name": "m;l;ii",
+        "trans": [
+            "命令式 imperative"
+        ]
+    },
+    {
+        "name": "m;l;iibfat",
+        "trans": [
+            "命令式编程 imperative programming"
+        ]
+    },
+    {
+        "name": "iixf",
+        "trans": [
+            "实现 implement"
+        ]
+    },
+    {
+        "name": "iixf",
+        "trans": [
+            "实现 implementation"
+        ]
+    },
+    {
+        "name": "yyii",
+        "trans": [
+            "隐式 implicit"
+        ]
+    },
+    {
+        "name": "dqru",
+        "trans": [
+            "导入 import"
+        ]
+    },
+    {
+        "name": "ztlgceii",
+        "trans": [
+            "增量测试 incremental testing"
+        ]
+    },
+    {
+        "name": "sopp",
+        "trans": [
+            "缩排 indent"
+        ]
+    },
+    {
+        "name": "sopp",
+        "trans": [
+            "缩排 indentation"
+        ]
+    },
+    {
+        "name": "sopp",
+        "trans": [
+            "缩排 indented"
+        ]
+    },
+    {
+        "name": "sopp",
+        "trans": [
+            "缩排 indention"
+        ]
+    },
+    {
+        "name": "tndq",
+        "trans": [
+            "推导 infer"
+        ]
+    },
+    {
+        "name": "wuxfxmhl",
+        "trans": [
+            "无限循环 infinite loop"
+        ]
+    },
+    {
+        "name": "wuxfj;du",
+        "trans": [
+            "无限精度 infinite precision"
+        ]
+    },
+    {
+        "name": "wuxfdign",
+        "trans": [
+            "无限递归 infinite recursion"
+        ]
+    },
+    {
+        "name": "uhxu",
+        "trans": [
+            "中序 infix"
+        ]
+    },
+    {
+        "name": "xyxi",
+        "trans": [
+            "信息 information"
+        ]
+    },
+    {
+        "name": "xyxijiiu",
+        "trans": [
+            "信息技术 information technology, IT"
+        ]
+    },
+    {
+        "name": "jiat",
+        "trans": [
+            "继承 inheritance"
+        ]
+    },
+    {
+        "name": "auiihx",
+        "trans": [
+            "初始化 initialization"
+        ]
+    },
+    {
+        "name": "auiihx",
+        "trans": [
+            "初始化 initialize"
+        ]
+    },
+    {
+        "name": "nklf",
+        "trans": [
+            "内联 inline"
+        ]
+    },
+    {
+        "name": "nklfurkp",
+        "trans": [
+            "内联展开 inline expansion"
+        ]
+    },
+    {
+        "name": "nkqflk",
+        "trans": [
+            "内嵌类 inner class"
+        ]
+    },
+    {
+        "name": "nkctxmhl",
+        "trans": [
+            "内层循环 inner loop"
+        ]
+    },
+    {
+        "name": "iuru",
+        "trans": [
+            "输入 input"
+        ]
+    },
+    {
+        "name": "iili",
+        "trans": [
+            "实例 instances"
+        ]
+    },
+    {
+        "name": "iilihx",
+        "trans": [
+            "实例化 instantiate"
+        ]
+    },
+    {
+        "name": "jbxnx;de",
+        "trans": [
+            "教学性的 instructive"
+        ]
+    },
+    {
+        "name": "jiluyi",
+        "trans": [
+            "记录仪 instrument"
+        ]
+    },
+    {
+        "name": "utiu",
+        "trans": [
+            "整数 integer"
+        ]
+    },
+    {
+        "name": "jiat",
+        "trans": [
+            "集成 integrate"
+        ]
+    },
+    {
+        "name": "jyatjfthxy",
+        "trans": [
+            "进程间通信 inter-process communication, IPC"
+        ]
+    },
+    {
+        "name": "jbhuiiyuyr",
+        "trans": [
+            "交互式语言 interactive language"
+        ]
+    },
+    {
+        "name": "jbhuiibfathlj;",
+        "trans": [
+            "交互式编程环境 interactive programming environment"
+        ]
+    },
+    {
+        "name": "jbhuiiceii",
+        "trans": [
+            "交互式测试 interactive testing"
+        ]
+    },
+    {
+        "name": "jbhu",
+        "trans": [
+            "交互 interacts"
+        ]
+    },
+    {
+        "name": "jdkz",
+        "trans": [
+            "接口 interface"
+        ]
+    },
+    {
+        "name": "godux;ii",
+        "trans": [
+            "过渡形式 intermediate form"
+        ]
+    },
+    {
+        "name": "nkbu",
+        "trans": [
+            "内部 internal"
+        ]
+    },
+    {
+        "name": "hulfws",
+        "trans": [
+            "互联网 internet"
+        ]
+    },
+    {
+        "name": "aaui",
+        "trans": [
+            "插值 interpolation"
+        ]
+    },
+    {
+        "name": "jdii",
+        "trans": [
+            "解释 interpret"
+        ]
+    },
+    {
+        "name": "jdiiqi",
+        "trans": [
+            "解释器 interpreter"
+        ]
+    },
+    {
+        "name": "uhui",
+        "trans": [
+            "中止 interrupt"
+        ]
+    },
+    {
+        "name": "jbji",
+        "trans": [
+            "交集 intersection"
+        ]
+    },
+    {
+        "name": "yniutbjf",
+        "trans": [
+            "约束条件 invariants"
+        ]
+    },
+    {
+        "name": "dbyh",
+        "trans": [
+            "调用 invoke"
+        ]
+    },
+    {
+        "name": "dddp",
+        "trans": [
+            "迭代 iterate"
+        ]
+    },
+    {
+        "name": "dddpde",
+        "trans": [
+            "迭代的 iteration"
+        ]
+    },
+    {
+        "name": "dddpde",
+        "trans": [
+            "迭代的 iterative"
+        ]
+    },
+    {
+        "name": "dddpqi",
+        "trans": [
+            "迭代器 iterator"
+        ]
+    },
+    {
+        "name": "juaiugde",
+        "trans": [
+            "锯齿状的 jagged"
+        ]
+    },
+    {
+        "name": "zoyekhuiyuyr",
+        "trans": [
+            "作业控制语言 job control language, JCL"
+        ]
+    },
+    {
+        "name": "m;uide",
+        "trans": [
+            "明智的 judicious"
+        ]
+    },
+    {
+        "name": "hexy",
+        "trans": [
+            "核心 kernel"
+        ]
+    },
+    {
+        "name": "hexyyuyr",
+        "trans": [
+            "核心语言 kernel language"
+        ]
+    },
+    {
+        "name": "gljfzicriu",
+        "trans": [
+            "关键字参数 keyword argument"
+        ]
+    },
+    {
+        "name": "gljfzi",
+        "trans": [
+            "关键字 keywords"
+        ]
+    },
+    {
+        "name": "bdjb",
+        "trans": [
+            "蹩脚 kludge"
+        ]
+    },
+    {
+        "name": "yrsl",
+        "trans": [
+            "lambda 演算 lambda calculus"
+        ]
+    },
+    {
+        "name": "aux;agyeghsi",
+        "trans": [
+            "雏形创业公司 larval startup"
+        ]
+    },
+    {
+        "name": "jigg",
+        "trans": [
+            "激光 laser"
+        ]
+    },
+    {
+        "name": "brx;",
+        "trans": [
+            "版型 layout"
+        ]
+    },
+    {
+        "name": "dox;",
+        "trans": [
+            "惰性 lazy"
+        ]
+    },
+    {
+        "name": "dox;qjui",
+        "trans": [
+            "惰性求值 lazy evaluation"
+        ]
+    },
+    {
+        "name": "liiiyiljrljf",
+        "trans": [
+            "历史遗留软件 legacy software"
+        ]
+    },
+    {
+        "name": "gsgr",
+        "trans": [
+            "杠杆 leverage"
+        ]
+    },
+    {
+        "name": "cifade",
+        "trans": [
+            "词法的 lexical"
+        ]
+    },
+    {
+        "name": "cifafwxi",
+        "trans": [
+            "词法分析 lexical analysis"
+        ]
+    },
+    {
+        "name": "cifabibq",
+        "trans": [
+            "词法闭包 lexical closure"
+        ]
+    },
+    {
+        "name": "cifazoyhyu",
+        "trans": [
+            "词法作用域 lexical scope"
+        ]
+    },
+    {
+        "name": "itm;qi",
+        "trans": [
+            "生命期 lifetime"
+        ]
+    },
+    {
+        "name": "xfx;dddp",
+        "trans": [
+            "线性迭代 linear iteration"
+        ]
+    },
+    {
+        "name": "xfx;dign",
+        "trans": [
+            "线性递归 linear recursion"
+        ]
+    },
+    {
+        "name": "lfjd",
+        "trans": [
+            "链接 link"
+        ]
+    },
+    {
+        "name": "lfjdqi",
+        "trans": [
+            "连接器 linker"
+        ]
+    },
+    {
+        "name": "ldbb",
+        "trans": [
+            "列表 list"
+        ]
+    },
+    {
+        "name": "ldbbcqzo",
+        "trans": [
+            "列表操作 list operation"
+        ]
+    },
+    {
+        "name": "zimf",
+        "trans": [
+            "字面 literal"
+        ]
+    },
+    {
+        "name": "zimfaslg",
+        "trans": [
+            "字面常量 literal constant"
+        ]
+    },
+    {
+        "name": "zimflg",
+        "trans": [
+            "字面量 literal representation"
+        ]
+    },
+    {
+        "name": "ugzp",
+        "trans": [
+            "装载 load"
+        ]
+    },
+    {
+        "name": "ugzpqi",
+        "trans": [
+            "装载器 loader"
+        ]
+    },
+    {
+        "name": "jubude",
+        "trans": [
+            "局部的 local"
+        ]
+    },
+    {
+        "name": "jubuitm;",
+        "trans": [
+            "局部声明 local declarations"
+        ]
+    },
+    {
+        "name": "jubuhriu",
+        "trans": [
+            "局部函数 local function"
+        ]
+    },
+    {
+        "name": "jububflg",
+        "trans": [
+            "局部变量 local variable"
+        ]
+    },
+    {
+        "name": "jubux;",
+        "trans": [
+            "局部性 locality"
+        ]
+    },
+    {
+        "name": "xmhl",
+        "trans": [
+            "循环 loop"
+        ]
+    },
+    {
+        "name": "zoui",
+        "trans": [
+            "左值 lvalue"
+        ]
+    },
+    {
+        "name": "jiqiuil;",
+        "trans": [
+            "机器指令 machine instruction"
+        ]
+    },
+    {
+        "name": "jiqiyuyr",
+        "trans": [
+            "机器语言 machine language"
+        ]
+    },
+    {
+        "name": "jiqiyuyrdpma",
+        "trans": [
+            "机器语言代码 machine language code"
+        ]
+    },
+    {
+        "name": "jiqixnxi",
+        "trans": [
+            "机器学习 machine learning"
+        ]
+    },
+    {
+        "name": "yzjfldbb",
+        "trans": [
+            "邮件列表 mailing list"
+        ]
+    },
+    {
+        "name": "dax;ji",
+        "trans": [
+            "大型机 mainframes"
+        ]
+    },
+    {
+        "name": "wkhu",
+        "trans": [
+            "维护 maintain"
+        ]
+    },
+    {
+        "name": "xfiilkx;",
+        "trans": [
+            "显式类型 manifest typing"
+        ]
+    },
+    {
+        "name": "cqzhqi",
+        "trans": [
+            "操纵器 manipulator"
+        ]
+    },
+    {
+        "name": "y;ie",
+        "trans": [
+            "映射 mapping"
+        ]
+    },
+    {
+        "name": "y;iehriu",
+        "trans": [
+            "映射函数 mapping functions"
+        ]
+    },
+    {
+        "name": "ldji",
+        "trans": [
+            "列集 marshal"
+        ]
+    },
+    {
+        "name": "dniuxnjxdeduji",
+        "trans": [
+            "对数学家的妒忌 math envy"
+        ]
+    },
+    {
+        "name": "atyl",
+        "trans": [
+            "成员 member"
+        ]
+    },
+    {
+        "name": "jiyihx",
+        "trans": [
+            "记忆化 memorizing"
+        ]
+    },
+    {
+        "name": "nkcm",
+        "trans": [
+            "内存 memory"
+        ]
+    },
+    {
+        "name": "nkcmfwpk",
+        "trans": [
+            "内存分配 memory allocation"
+        ]
+    },
+    {
+        "name": "nkcmxdlz",
+        "trans": [
+            "内存泄漏 memory leaks"
+        ]
+    },
+    {
+        "name": "cpdr",
+        "trans": [
+            "菜单 menu"
+        ]
+    },
+    {
+        "name": "xbxi",
+        "trans": [
+            "消息 message"
+        ]
+    },
+    {
+        "name": "xbxialdi",
+        "trans": [
+            "消息传递 message-passing"
+        ]
+    },
+    {
+        "name": "ylbfat",
+        "trans": [
+            "元编程 meta-programming"
+        ]
+    },
+    {
+        "name": "ylxmhl",
+        "trans": [
+            "元循环 metacircular"
+        ]
+    },
+    {
+        "name": "fsfa",
+        "trans": [
+            "方法 method"
+        ]
+    },
+    {
+        "name": "fsfazuhe",
+        "trans": [
+            "方法组合 method combination"
+        ]
+    },
+    {
+        "name": "uhjfjf",
+        "trans": [
+            "中间件 middleware"
+        ]
+    },
+    {
+        "name": "iujukuqfyi",
+        "trans": [
+            "（数据库）迁移 migration"
+        ]
+    },
+    {
+        "name": "znxbwslo",
+        "trans": [
+            "最小网络 minimal network"
+        ]
+    },
+    {
+        "name": "j;ie",
+        "trans": [
+            "镜射 mirror"
+        ]
+    },
+    {
+        "name": "lkx;bupipk",
+        "trans": [
+            "类型不匹配 mismatch type"
+        ]
+    },
+    {
+        "name": "mox;",
+        "trans": [
+            "模型 model"
+        ]
+    },
+    {
+        "name": "dbuijddbqi",
+        "trans": [
+            "调制解调器 modem"
+        ]
+    },
+    {
+        "name": "xjiifu",
+        "trans": [
+            "修饰符 modifier"
+        ]
+    },
+    {
+        "name": "mokyx;",
+        "trans": [
+            "模块性 modularity"
+        ]
+    },
+    {
+        "name": "moky",
+        "trans": [
+            "模块 module"
+        ]
+    },
+    {
+        "name": "drzi",
+        "trans": [
+            "单子 monad"
+        ]
+    },
+    {
+        "name": "hzzibud;",
+        "trans": [
+            "猴子补丁 monkey patch"
+        ]
+    },
+    {
+        "name": "drx;yuyr",
+        "trans": [
+            "单型语言 monomorphic type language"
+        ]
+    },
+    {
+        "name": "iubb",
+        "trans": [
+            "鼠标 mouse"
+        ]
+    },
+    {
+        "name": "dorwwu",
+        "trans": [
+            "多任务 multi-task"
+        ]
+    },
+    {
+        "name": "doui",
+        "trans": [
+            "多值 multiple values"
+        ]
+    },
+    {
+        "name": "kebfde",
+        "trans": [
+            "可变的 mutable"
+        ]
+    },
+    {
+        "name": "huaiso",
+        "trans": [
+            "互斥锁 mutex"
+        ]
+    },
+    {
+        "name": "m;m;khjf",
+        "trans": [
+            "命名空间 namespace"
+        ]
+    },
+    {
+        "name": "bwdide",
+        "trans": [
+            "本地的 native"
+        ]
+    },
+    {
+        "name": "bwdima",
+        "trans": [
+            "本地码 native code"
+        ]
+    },
+    {
+        "name": "zirryuyr",
+        "trans": [
+            "自然语言 natural language"
+        ]
+    },
+    {
+        "name": "zirryuyrauli",
+        "trans": [
+            "自然语言处理 natural language processing"
+        ]
+    },
+    {
+        "name": "qftq",
+        "trans": [
+            "嵌套 nested"
+        ]
+    },
+    {
+        "name": "qftqlk",
+        "trans": [
+            "嵌套类 nested class"
+        ]
+    },
+    {
+        "name": "wslo",
+        "trans": [
+            "网络 network"
+        ]
+    },
+    {
+        "name": "hlx;",
+        "trans": [
+            "换行 newline"
+        ]
+    },
+    {
+        "name": "fkqnd;x;xlze",
+        "trans": [
+            "非确定性选择 non-deterministic choice"
+        ]
+    },
+    {
+        "name": "fkyrge",
+        "trans": [
+            "非严格 non-strict"
+        ]
+    },
+    {
+        "name": "fkyrgeqjui",
+        "trans": [
+            "非严格求值 non-strict evaluation"
+        ]
+    },
+    {
+        "name": "fkpohyx;debrbw",
+        "trans": [
+            "非破坏性的版本 nondestructive version"
+        ]
+    },
+    {
+        "name": "iuzimijiymsl",
+        "trans": [
+            "数字密集运算 number crunching"
+        ]
+    },
+    {
+        "name": "dnxg",
+        "trans": [
+            "对象 object"
+        ]
+    },
+    {
+        "name": "mubbdpma",
+        "trans": [
+            "目标代码 object code"
+        ]
+    },
+    {
+        "name": "mfxgdnxg",
+        "trans": [
+            "面向对象 object-oriented"
+        ]
+    },
+    {
+        "name": "mfxgdnxgbfat",
+        "trans": [
+            "面向对象编程 object-oriented programming"
+        ]
+    },
+    {
+        "name": "ymx;uh",
+        "trans": [
+            "运行中 on the fly"
+        ]
+    },
+    {
+        "name": "zpxf",
+        "trans": [
+            "在线 online"
+        ]
+    },
+    {
+        "name": "kpfsylma",
+        "trans": [
+            "开放源码 open source"
+        ]
+    },
+    {
+        "name": "cqzodnxg",
+        "trans": [
+            "操作对象 operand"
+        ]
+    },
+    {
+        "name": "cqzoxith",
+        "trans": [
+            "操作系统 operating system, OS"
+        ]
+    },
+    {
+        "name": "cqzo",
+        "trans": [
+            "操作 operation"
+        ]
+    },
+    {
+        "name": "cqzofu",
+        "trans": [
+            "操作符 operator"
+        ]
+    },
+    {
+        "name": "yzhx",
+        "trans": [
+            "优化 optimization"
+        ]
+    },
+    {
+        "name": "wkdbyhyzhx",
+        "trans": [
+            "尾调用优化 optimization of tail calls"
+        ]
+    },
+    {
+        "name": "xlxg",
+        "trans": [
+            "选项 option"
+        ]
+    },
+    {
+        "name": "kexlde",
+        "trans": [
+            "可选的 optional"
+        ]
+    },
+    {
+        "name": "xlzex;criu",
+        "trans": [
+            "选择性参数 optional argument"
+        ]
+    },
+    {
+        "name": "asgnde",
+        "trans": [
+            "常规的 ordinary"
+        ]
+    },
+    {
+        "name": "utjbx;",
+        "trans": [
+            "正交性 orthogonality"
+        ]
+    },
+    {
+        "name": "yiau",
+        "trans": [
+            "溢出 overflow"
+        ]
+    },
+    {
+        "name": "ewpkpxb",
+        "trans": [
+            "额外开销 overhead"
+        ]
+    },
+    {
+        "name": "uhzp",
+        "trans": [
+            "重载 overload"
+        ]
+    },
+    {
+        "name": "fuxd",
+        "trans": [
+            "覆写 override"
+        ]
+    },
+    {
+        "name": "dfdn",
+        "trans": [
+            "点对 pair"
+        ]
+    },
+    {
+        "name": "hnww",
+        "trans": [
+            "回文 palindrome"
+        ]
+    },
+    {
+        "name": "frii",
+        "trans": [
+            "范式 paradigm"
+        ]
+    },
+    {
+        "name": "b;x;",
+        "trans": [
+            "并行 parallel"
+        ]
+    },
+    {
+        "name": "b;x;jislji",
+        "trans": [
+            "并行计算机 parallel computer"
+        ]
+    },
+    {
+        "name": "criu",
+        "trans": [
+            "参数 param"
+        ]
+    },
+    {
+        "name": "criu",
+        "trans": [
+            "参数 parameter"
+        ]
+    },
+    {
+        "name": "kohqpipk",
+        "trans": [
+            "括号匹配 paren-matching"
+        ]
+    },
+    {
+        "name": "fulk",
+        "trans": [
+            "父类 parent class"
+        ]
+    },
+    {
+        "name": "kohq",
+        "trans": [
+            "括号 parentheses"
+        ]
+    },
+    {
+        "name": "jdxi",
+        "trans": [
+            "解析 parse"
+        ]
+    },
+    {
+        "name": "jdxiiu",
+        "trans": [
+            "解析树 parse tree"
+        ]
+    },
+    {
+        "name": "jdxiqi",
+        "trans": [
+            "解析器 parser"
+        ]
+    },
+    {
+        "name": "bufwy;yh",
+        "trans": [
+            "部分应用 partial application"
+        ]
+    },
+    {
+        "name": "fwbudprude",
+        "trans": [
+            "分步代入的 partial applied"
+        ]
+    },
+    {
+        "name": "bufwhriuy;yh",
+        "trans": [
+            "部分函数应用 partial function application"
+        ]
+    },
+    {
+        "name": "bufwyzxu",
+        "trans": [
+            "部分有序 particular ordering"
+        ]
+    },
+    {
+        "name": "ruialdi",
+        "trans": [
+            "按址传递 pass by adress"
+        ]
+    },
+    {
+        "name": "ryyyhaldi",
+        "trans": [
+            "按引用传递 pass by reference"
+        ]
+    },
+    {
+        "name": "ruialdi",
+        "trans": [
+            "按值传递 pass by value"
+        ]
+    },
+    {
+        "name": "luj;",
+        "trans": [
+            "路径 path"
+        ]
+    },
+    {
+        "name": "moii",
+        "trans": [
+            "模式 pattern"
+        ]
+    },
+    {
+        "name": "moiipipk",
+        "trans": [
+            "模式匹配 pattern match"
+        ]
+    },
+    {
+        "name": "uix;",
+        "trans": [
+            "执行 perform"
+        ]
+    },
+    {
+        "name": "x;nt",
+        "trans": [
+            "性能 performance"
+        ]
+    },
+    {
+        "name": "aijjx;",
+        "trans": [
+            "持久性 persistence"
+        ]
+    },
+    {
+        "name": "xgmf",
+        "trans": [
+            "相面 phrenology"
+        ]
+    },
+    {
+        "name": "wulide",
+        "trans": [
+            "物理的 physical"
+        ]
+    },
+    {
+        "name": "gldq",
+        "trans": [
+            "管道 pipe"
+        ]
+    },
+    {
+        "name": "xgsu",
+        "trans": [
+            "像素 pixel"
+        ]
+    },
+    {
+        "name": "urwkfu",
+        "trans": [
+            "占位符 placeholder"
+        ]
+    },
+    {
+        "name": "jihx",
+        "trans": [
+            "计画 planning"
+        ]
+    },
+    {
+        "name": "p;tp",
+        "trans": [
+            "平台 platform"
+        ]
+    },
+    {
+        "name": "uiuw",
+        "trans": [
+            "指针 pointer"
+        ]
+    },
+    {
+        "name": "uiuwymsl",
+        "trans": [
+            "指针运算 pointer arithmetic"
+        ]
+    },
+    {
+        "name": "lmxm",
+        "trans": [
+            "轮询 poll"
+        ]
+    },
+    {
+        "name": "dotp",
+        "trans": [
+            "多态 polymorphic"
+        ]
+    },
+    {
+        "name": "dotp",
+        "trans": [
+            "多态 polymorphism"
+        ]
+    },
+    {
+        "name": "doxgiide",
+        "trans": [
+            "多项式的 polynomial"
+        ]
+    },
+    {
+        "name": "dlkz",
+        "trans": [
+            "端口 port"
+        ]
+    },
+    {
+        "name": "keyiuix;",
+        "trans": [
+            "可移植性 portable"
+        ]
+    },
+    {
+        "name": "mwhu",
+        "trans": [
+            "门户 portal"
+        ]
+    },
+    {
+        "name": "wkuicriu",
+        "trans": [
+            "位置参数 positional parameters"
+        ]
+    },
+    {
+        "name": "hzxu",
+        "trans": [
+            "后序 postfix"
+        ]
+    },
+    {
+        "name": "yzxfji",
+        "trans": [
+            "优先级 precedence"
+        ]
+    },
+    {
+        "name": "yzxfjildbb",
+        "trans": [
+            "优先级列表 precedence list"
+        ]
+    },
+    {
+        "name": "qfiude",
+        "trans": [
+            "前述的 preceding"
+        ]
+    },
+    {
+        "name": "prdlii",
+        "trans": [
+            "判断式 predicate"
+        ]
+    },
+    {
+        "name": "qguriidorwwu",
+        "trans": [
+            "抢占式多任务 preemptive multitasking"
+        ]
+    },
+    {
+        "name": "gozqieji",
+        "trans": [
+            "过早设计 premature design"
+        ]
+    },
+    {
+        "name": "yuauliqi",
+        "trans": [
+            "预处理器 preprocessor"
+        ]
+    },
+    {
+        "name": "gnd;",
+        "trans": [
+            "规定 prescribe"
+        ]
+    },
+    {
+        "name": "suiu",
+        "trans": [
+            "素数 prime"
+        ]
+    },
+    {
+        "name": "ylyu",
+        "trans": [
+            "原语 primitive"
+        ]
+    },
+    {
+        "name": "uudign",
+        "trans": [
+            "主递归 primitive recursive"
+        ]
+    },
+    {
+        "name": "ylitlkx;",
+        "trans": [
+            "原生类型 primitive type"
+        ]
+    },
+    {
+        "name": "uuyqlkx;",
+        "trans": [
+            "主要类型 principal type"
+        ]
+    },
+    {
+        "name": "dayy",
+        "trans": [
+            "打印 print"
+        ]
+    },
+    {
+        "name": "dayybbiifa",
+        "trans": [
+            "打印表示法 printed representation"
+        ]
+    },
+    {
+        "name": "dayyji",
+        "trans": [
+            "打印机 printer"
+        ]
+    },
+    {
+        "name": "yzxfji",
+        "trans": [
+            "优先级 priority"
+        ]
+    },
+    {
+        "name": "goat",
+        "trans": [
+            "过程 procedure"
+        ]
+    },
+    {
+        "name": "goathxde",
+        "trans": [
+            "过程化的 procedurual"
+        ]
+    },
+    {
+        "name": "goatiiuiii",
+        "trans": [
+            "过程式知识 procedurual knowledge"
+        ]
+    },
+    {
+        "name": "jyat",
+        "trans": [
+            "进程 process"
+        ]
+    },
+    {
+        "name": "jyatyzxfji",
+        "trans": [
+            "进程优先级 process priority"
+        ]
+    },
+    {
+        "name": "itarli",
+        "trans": [
+            "生产力 productivity"
+        ]
+    },
+    {
+        "name": "p;ce",
+        "trans": [
+            "评测 profile"
+        ]
+    },
+    {
+        "name": "p;ceqi",
+        "trans": [
+            "评测器 profiler"
+        ]
+    },
+    {
+        "name": "atxuyl",
+        "trans": [
+            "程序员 programmer"
+        ]
+    },
+    {
+        "name": "bfat",
+        "trans": [
+            "编程 programming"
+        ]
+    },
+    {
+        "name": "bfatyuyr",
+        "trans": [
+            "编程语言 programming language"
+        ]
+    },
+    {
+        "name": "xgmu",
+        "trans": [
+            "项目 project"
+        ]
+    },
+    {
+        "name": "tiiifu",
+        "trans": [
+            "提示符 prompt"
+        ]
+    },
+    {
+        "name": "utgnldbb",
+        "trans": [
+            "正规列表 proper list"
+        ]
+    },
+    {
+        "name": "iux;",
+        "trans": [
+            "属性 property"
+        ]
+    },
+    {
+        "name": "iux;ldbb",
+        "trans": [
+            "属性列表 property list"
+        ]
+    },
+    {
+        "name": "xdyi",
+        "trans": [
+            "协议 protocol"
+        ]
+    },
+    {
+        "name": "ylx;",
+        "trans": [
+            "原型 prototype"
+        ]
+    },
+    {
+        "name": "wkma",
+        "trans": [
+            "伪码 pseudo code"
+        ]
+    },
+    {
+        "name": "wkuil;",
+        "trans": [
+            "伪指令 pseudo instruction"
+        ]
+    },
+    {
+        "name": "amhriuiiyuyr",
+        "trans": [
+            "纯函数式语言 purely functional language"
+        ]
+    },
+    {
+        "name": "xxtnur",
+        "trans": [
+            "下推栈 pushdown stack"
+        ]
+    },
+    {
+        "name": "xjiide",
+        "trans": [
+            "修饰的 qualified"
+        ]
+    },
+    {
+        "name": "xjiifu",
+        "trans": [
+            "修饰符 qualifier"
+        ]
+    },
+    {
+        "name": "uilg",
+        "trans": [
+            "质量 quality"
+        ]
+    },
+    {
+        "name": "uilgbqut",
+        "trans": [
+            "质量保证 quality assurance, QA"
+        ]
+    },
+    {
+        "name": "aaxm",
+        "trans": [
+            "查询 query"
+        ]
+    },
+    {
+        "name": "aaxmyuyr",
+        "trans": [
+            "查询语言 query language"
+        ]
+    },
+    {
+        "name": "dnld",
+        "trans": [
+            "队列 queue"
+        ]
+    },
+    {
+        "name": "yyyh",
+        "trans": [
+            "引用 quote"
+        ]
+    },
+    {
+        "name": "yyyhx;ii",
+        "trans": [
+            "引用形式 quoted form"
+        ]
+    },
+    {
+        "name": "tbjfj;ut",
+        "trans": [
+            "条件竞争 race condition"
+        ]
+    },
+    {
+        "name": "hudu",
+        "trans": [
+            "弧度 radian"
+        ]
+    },
+    {
+        "name": "yyqi",
+        "trans": [
+            "引起 raise"
+        ]
+    },
+    {
+        "name": "snjiiu",
+        "trans": [
+            "随机数 random number"
+        ]
+    },
+    {
+        "name": "frwk",
+        "trans": [
+            "范围 range"
+        ]
+    },
+    {
+        "name": "kysuylx;kpfa",
+        "trans": [
+            "快速原型开发 rapid prototyping"
+        ]
+    },
+    {
+        "name": "glxiiujuku",
+        "trans": [
+            "关系数据库 rational database"
+        ]
+    },
+    {
+        "name": "wkj;aulide",
+        "trans": [
+            "未经处理的 raw"
+        ]
+    },
+    {
+        "name": "duqu",
+        "trans": [
+            "读取 read"
+        ]
+    },
+    {
+        "name": "duquqjuidayyxmhl",
+        "trans": [
+            "读取-求值-打印循环 read-evaluate-print loop, REPL"
+        ]
+    },
+    {
+        "name": "duquhh",
+        "trans": [
+            "读取宏 read-macro"
+        ]
+    },
+    {
+        "name": "jilu",
+        "trans": [
+            "记录 record"
+        ]
+    },
+    {
+        "name": "dign",
+        "trans": [
+            "递归 recursion"
+        ]
+    },
+    {
+        "name": "dignde",
+        "trans": [
+            "递归的 recursive"
+        ]
+    },
+    {
+        "name": "dignq;x;",
+        "trans": [
+            "递归情形 recursive case"
+        ]
+    },
+    {
+        "name": "uhgz",
+        "trans": [
+            "重构 refactor"
+        ]
+    },
+    {
+        "name": "crkq",
+        "trans": [
+            "参考 refer"
+        ]
+    },
+    {
+        "name": "yyyh",
+        "trans": [
+            "引用 reference"
+        ]
+    },
+    {
+        "name": "yyyhtzm;",
+        "trans": [
+            "引用透明 referential transparency"
+        ]
+    },
+    {
+        "name": "j;hx",
+        "trans": [
+            "精化 refine"
+        ]
+    },
+    {
+        "name": "frie",
+        "trans": [
+            "反射 reflection"
+        ]
+    },
+    {
+        "name": "jicmqi",
+        "trans": [
+            "寄存器 register"
+        ]
+    },
+    {
+        "name": "uucebbrubf",
+        "trans": [
+            "注册表蠕变 registry creep"
+        ]
+    },
+    {
+        "name": "utzebbdaii",
+        "trans": [
+            "正则表达式 regular expression"
+        ]
+    },
+    {
+        "name": "ylatgoatdbyh",
+        "trans": [
+            "远程过程调用 remote procedure call, RPC"
+        ]
+    },
+    {
+        "name": "bbxf",
+        "trans": [
+            "表现 represent"
+        ]
+    },
+    {
+        "name": "q;qj",
+        "trans": [
+            "请求 request"
+        ]
+    },
+    {
+        "name": "jdxidu",
+        "trans": [
+            "解析度 resolution"
+        ]
+    },
+    {
+        "name": "jdxi",
+        "trans": [
+            "解析 resolve"
+        ]
+    },
+    {
+        "name": "ityucriu",
+        "trans": [
+            "剩余参数 rest parameter"
+        ]
+    },
+    {
+        "name": "frhn",
+        "trans": [
+            "返回 return"
+        ]
+    },
+    {
+        "name": "frhnui",
+        "trans": [
+            "返回值 return value"
+        ]
+    },
+    {
+        "name": "dpmauhyh",
+        "trans": [
+            "代码重用 reuse of software"
+        ]
+    },
+    {
+        "name": "yzjdhe",
+        "trans": [
+            "右结合 right associative"
+        ]
+    },
+    {
+        "name": "jfug",
+        "trans": [
+            "健壮 robust"
+        ]
+    },
+    {
+        "name": "jfugx;",
+        "trans": [
+            "健壮性 robustness"
+        ]
+    },
+    {
+        "name": "liat",
+        "trans": [
+            "例程 routine"
+        ]
+    },
+    {
+        "name": "luyz",
+        "trans": [
+            "路由 routing"
+        ]
+    },
+    {
+        "name": "lduuxu",
+        "trans": [
+            "列主序 row-major order"
+        ]
+    },
+    {
+        "name": "yzatbfma",
+        "trans": [
+            "游程编码 run-length encoding"
+        ]
+    },
+    {
+        "name": "ymx;qilkx;",
+        "trans": [
+            "运行期类型 run-time typing"
+        ]
+    },
+    {
+        "name": "ymx;qi",
+        "trans": [
+            "运行期 runtime"
+        ]
+    },
+    {
+        "name": "yzui",
+        "trans": [
+            "右值 rvalue"
+        ]
+    },
+    {
+        "name": "aucm",
+        "trans": [
+            "储存 save"
+        ]
+    },
+    {
+        "name": "jbizjx",
+        "trans": [
+            "脚手架 scaffold"
+        ]
+    },
+    {
+        "name": "bblg",
+        "trans": [
+            "标量 scalar type"
+        ]
+    },
+    {
+        "name": "sqmb",
+        "trans": [
+            "扫描 scan"
+        ]
+    },
+    {
+        "name": "dbdu",
+        "trans": [
+            "调度 schedule"
+        ]
+    },
+    {
+        "name": "dbduatxu",
+        "trans": [
+            "调度程序 scheduler"
+        ]
+    },
+    {
+        "name": "zoyhyu",
+        "trans": [
+            "作用域 scope"
+        ]
+    },
+    {
+        "name": "p;mu",
+        "trans": [
+            "屏幕 screen"
+        ]
+    },
+    {
+        "name": "jbbwyuyr",
+        "trans": [
+            "脚本语言 scripting language"
+        ]
+    },
+    {
+        "name": "aauq",
+        "trans": [
+            "查找 search"
+        ]
+    },
+    {
+        "name": "uil;pfdl",
+        "trans": [
+            "指令片段 segment of instructions"
+        ]
+    },
+    {
+        "name": "yuyi",
+        "trans": [
+            "语义 semantics"
+        ]
+    },
+    {
+        "name": "xyhqlg",
+        "trans": [
+            "信号量 semaphore"
+        ]
+    },
+    {
+        "name": "fwhq",
+        "trans": [
+            "分号 semicolon"
+        ]
+    },
+    {
+        "name": "xuld",
+        "trans": [
+            "序列 sequence"
+        ]
+    },
+    {
+        "name": "xmxude",
+        "trans": [
+            "循序的 sequential"
+        ]
+    },
+    {
+        "name": "alx;",
+        "trans": [
+            "串行 serial"
+        ]
+    },
+    {
+        "name": "xuldhx",
+        "trans": [
+            "序列化 serialization"
+        ]
+    },
+    {
+        "name": "alx;",
+        "trans": [
+            "串行 series"
+        ]
+    },
+    {
+        "name": "fuwuqi",
+        "trans": [
+            "服务器 server"
+        ]
+    },
+    {
+        "name": "yybile",
+        "trans": [
+            "隐蔽了 shadowing"
+        ]
+    },
+    {
+        "name": "xilide",
+        "trans": [
+            "犀利的 sharp"
+        ]
+    },
+    {
+        "name": "ityyhq",
+        "trans": [
+            "升引号 sharp-quote"
+        ]
+    },
+    {
+        "name": "zndlluj;",
+        "trans": [
+            "最短路径 shortest path"
+        ]
+    },
+    {
+        "name": "fuzoyh",
+        "trans": [
+            "副作用 side effect"
+        ]
+    },
+    {
+        "name": "qfm;",
+        "trans": [
+            "签名 signature"
+        ]
+    },
+    {
+        "name": "jfdrxglg",
+        "trans": [
+            "简单向量 simple vector"
+        ]
+    },
+    {
+        "name": "moni",
+        "trans": [
+            "模拟 simulate"
+        ]
+    },
+    {
+        "name": "drdlde",
+        "trans": [
+            "单段的 single-segment"
+        ]
+    },
+    {
+        "name": "cqtu",
+        "trans": [
+            "草图 sketch"
+        ]
+    },
+    {
+        "name": "xdxf",
+        "trans": [
+            "斜线 slash"
+        ]
+    },
+    {
+        "name": "uintuiuw",
+        "trans": [
+            "智能指针 smart pointer"
+        ]
+    },
+    {
+        "name": "iediiixbxd",
+        "trans": [
+            "蛇底式小写 snake_case"
+        ]
+    },
+    {
+        "name": "p;mujdtu",
+        "trans": [
+            "屏幕截图 snapshot"
+        ]
+    },
+    {
+        "name": "tqjdzi",
+        "trans": [
+            "套接字 socket"
+        ]
+    },
+    {
+        "name": "rljf",
+        "trans": [
+            "软件 software"
+        ]
+    },
+    {
+        "name": "fsr",
+        "trans": [
+            "方案 solution"
+        ]
+    },
+    {
+        "name": "yldpma",
+        "trans": [
+            "源代码 source code"
+        ]
+    },
+    {
+        "name": "nkcmxdlz",
+        "trans": [
+            "内存泄漏 space leak"
+        ]
+    },
+    {
+        "name": "mftbiidpma",
+        "trans": [
+            "面条式代码 spaghetti"
+        ]
+    },
+    {
+        "name": "yimfiiur",
+        "trans": [
+            "意面式栈 spaghetti stack"
+        ]
+    },
+    {
+        "name": "lajiyzjf",
+        "trans": [
+            "垃圾邮件 spam"
+        ]
+    },
+    {
+        "name": "gnge",
+        "trans": [
+            "规格 spec"
+        ]
+    },
+    {
+        "name": "teiux;ii",
+        "trans": [
+            "特殊形式 special form"
+        ]
+    },
+    {
+        "name": "teiubflg",
+        "trans": [
+            "特殊变量 special variable"
+        ]
+    },
+    {
+        "name": "tehx",
+        "trans": [
+            "特化 specialization"
+        ]
+    },
+    {
+        "name": "tehx",
+        "trans": [
+            "特化 specialize"
+        ]
+    },
+    {
+        "name": "tehxiuzu",
+        "trans": [
+            "特化数组 specialized array"
+        ]
+    },
+    {
+        "name": "gngeiom;",
+        "trans": [
+            "规格说明 specification"
+        ]
+    },
+    {
+        "name": "qdfwagkz",
+        "trans": [
+            "切分窗口 splitter"
+        ]
+    },
+    {
+        "name": "j;l;tu",
+        "trans": [
+            "精灵图 sprite"
+        ]
+    },
+    {
+        "name": "p;fs",
+        "trans": [
+            "平方 square"
+        ]
+    },
+    {
+        "name": "p;fsgw",
+        "trans": [
+            "平方根 square root"
+        ]
+    },
+    {
+        "name": "ptug",
+        "trans": [
+            "碰撞 squash"
+        ]
+    },
+    {
+        "name": "urut",
+        "trans": [
+            "栈帧 stack frame"
+        ]
+    },
+    {
+        "name": "bbumhriiku",
+        "trans": [
+            "标准函式库 standard library"
+        ]
+    },
+    {
+        "name": "ugtpji",
+        "trans": [
+            "状态机 state machine"
+        ]
+    },
+    {
+        "name": "awiu",
+        "trans": [
+            "陈述 statement"
+        ]
+    },
+    {
+        "name": "j;tplkx;",
+        "trans": [
+            "静态类型 static type"
+        ]
+    },
+    {
+        "name": "j;tplkx;xith",
+        "trans": [
+            "静态类型系统 static type system"
+        ]
+    },
+    {
+        "name": "ugtp",
+        "trans": [
+            "状态 status"
+        ]
+    },
+    {
+        "name": "bqcm",
+        "trans": [
+            "保存 store"
+        ]
+    },
+    {
+        "name": "yrge",
+        "trans": [
+            "严格 strict"
+        ]
+    },
+    {
+        "name": "yrgeqjui",
+        "trans": [
+            "严格求值 strict evaluation"
+        ]
+    },
+    {
+        "name": "zial",
+        "trans": [
+            "字串 string"
+        ]
+    },
+    {
+        "name": "zialmobr",
+        "trans": [
+            "字串模版 string template"
+        ]
+    },
+    {
+        "name": "qglkx;",
+        "trans": [
+            "强类型 strong type"
+        ]
+    },
+    {
+        "name": "jdgzdign",
+        "trans": [
+            "结构递归 structural recursion"
+        ]
+    },
+    {
+        "name": "jdgzx;ui",
+        "trans": [
+            "结构型值 structured values"
+        ]
+    },
+    {
+        "name": "ziatxu",
+        "trans": [
+            "子程序 subroutine"
+        ]
+    },
+    {
+        "name": "ziji",
+        "trans": [
+            "子集 subset"
+        ]
+    },
+    {
+        "name": "dphl",
+        "trans": [
+            "代换 substitution"
+        ]
+    },
+    {
+        "name": "dphlmox;",
+        "trans": [
+            "代换模型 substitution model"
+        ]
+    },
+    {
+        "name": "zilkx;",
+        "trans": [
+            "子类型 subtype"
+        ]
+    },
+    {
+        "name": "jilk",
+        "trans": [
+            "基类 superclass"
+        ]
+    },
+    {
+        "name": "doyude",
+        "trans": [
+            "多余的 superfluous"
+        ]
+    },
+    {
+        "name": "aqji",
+        "trans": [
+            "超集 supertype"
+        ]
+    },
+    {
+        "name": "uiai",
+        "trans": [
+            "支持 support"
+        ]
+    },
+    {
+        "name": "gxqi",
+        "trans": [
+            "挂起 suspend"
+        ]
+    },
+    {
+        "name": "jbhlbflgdeui",
+        "trans": [
+            "交换变量的值 swapping values"
+        ]
+    },
+    {
+        "name": "fuhq",
+        "trans": [
+            "符号 symbol"
+        ]
+    },
+    {
+        "name": "fuhqjisl",
+        "trans": [
+            "符号计算 symbolic computation"
+        ]
+    },
+    {
+        "name": "yufa",
+        "trans": [
+            "语法 syntax"
+        ]
+    },
+    {
+        "name": "xithglliyl",
+        "trans": [
+            "系统管理员 system administrator"
+        ]
+    },
+    {
+        "name": "xithglliylzhheut",
+        "trans": [
+            "系统管理员综合症 system administrator disease"
+        ]
+    },
+    {
+        "name": "bbge",
+        "trans": [
+            "表格 table"
+        ]
+    },
+    {
+        "name": "bbqf",
+        "trans": [
+            "标签 tag"
+        ]
+    },
+    {
+        "name": "wkdign",
+        "trans": [
+            "尾递归 tail-recursion"
+        ]
+    },
+    {
+        "name": "wkdignde",
+        "trans": [
+            "尾递归的 tail-recursive"
+        ]
+    },
+    {
+        "name": "mubb",
+        "trans": [
+            "目标 target"
+        ]
+    },
+    {
+        "name": "xujduiiiyhdecqzofu",
+        "trans": [
+            "需节制使用的操作符 taxable operators"
+        ]
+    },
+    {
+        "name": "fwlkfa",
+        "trans": [
+            "分类法 taxonomy"
+        ]
+    },
+    {
+        "name": "mobr",
+        "trans": [
+            "模版 template"
+        ]
+    },
+    {
+        "name": "lyiidnxg",
+        "trans": [
+            "临时对象 temporary object"
+        ]
+    },
+    {
+        "name": "ceii",
+        "trans": [
+            "测试 testing"
+        ]
+    },
+    {
+        "name": "wwbw",
+        "trans": [
+            "文本 text"
+        ]
+    },
+    {
+        "name": "wwbwwwjf",
+        "trans": [
+            "文本文件 text file"
+        ]
+    },
+    {
+        "name": "xfat",
+        "trans": [
+            "线程 thread"
+        ]
+    },
+    {
+        "name": "xfatrql",
+        "trans": [
+            "线程安全 thread safe"
+        ]
+    },
+    {
+        "name": "sruiloji",
+        "trans": [
+            "三值逻辑 three-valued logic"
+        ]
+    },
+    {
+        "name": "pqau",
+        "trans": [
+            "抛出 throw"
+        ]
+    },
+    {
+        "name": "yicix;atxu",
+        "trans": [
+            "一次性程序 throwaway program"
+        ]
+    },
+    {
+        "name": "iijfao",
+        "trans": [
+            "时间戳 timestamp"
+        ]
+    },
+    {
+        "name": "cifajihq",
+        "trans": [
+            "词法记号 token"
+        ]
+    },
+    {
+        "name": "zid;xgxxdeieji",
+        "trans": [
+            "自顶向下的设计 top-down design"
+        ]
+    },
+    {
+        "name": "d;ct",
+        "trans": [
+            "顶层 top-level"
+        ]
+    },
+    {
+        "name": "unzh",
+        "trans": [
+            "追踪 trace"
+        ]
+    },
+    {
+        "name": "x;wkkhbp",
+        "trans": [
+            "行尾空白 trailing space"
+        ]
+    },
+    {
+        "name": "iiwu",
+        "trans": [
+            "事务 transaction"
+        ]
+    },
+    {
+        "name": "ulyiwslo",
+        "trans": [
+            "转移网络 transition network"
+        ]
+    },
+    {
+        "name": "tzm;de",
+        "trans": [
+            "透明的 transparent"
+        ]
+    },
+    {
+        "name": "bfli",
+        "trans": [
+            "遍历 traverse"
+        ]
+    },
+    {
+        "name": "iux;dign",
+        "trans": [
+            "树形递归 tree recursion"
+        ]
+    },
+    {
+        "name": "aufaqi",
+        "trans": [
+            "触发器 trigger"
+        ]
+    },
+    {
+        "name": "ylzu",
+        "trans": [
+            "元组 tuple"
+        ]
+    },
+    {
+        "name": "lkx;hefa",
+        "trans": [
+            "类型合法 typable"
+        ]
+    },
+    {
+        "name": "lkx;",
+        "trans": [
+            "类型 type"
+        ]
+    },
+    {
+        "name": "lkgzzqqi",
+        "trans": [
+            "类构造器 type constructor"
+        ]
+    },
+    {
+        "name": "lkx;itm;",
+        "trans": [
+            "类型声明 type declaration"
+        ]
+    },
+    {
+        "name": "lkx;ctji",
+        "trans": [
+            "类型层级 type hierarchy"
+        ]
+    },
+    {
+        "name": "lkx;tndq",
+        "trans": [
+            "类型推导 type inference"
+        ]
+    },
+    {
+        "name": "lkx;m;",
+        "trans": [
+            "类型名 type name"
+        ]
+    },
+    {
+        "name": "lkx;rql",
+        "trans": [
+            "类型安全 type safe"
+        ]
+    },
+    {
+        "name": "lkx;qfm;",
+        "trans": [
+            "类型签名 type signature"
+        ]
+    },
+    {
+        "name": "lkx;bdm;",
+        "trans": [
+            "类型别名 type synonym"
+        ]
+    },
+    {
+        "name": "lkx;bflg",
+        "trans": [
+            "类型变量 type variable"
+        ]
+    },
+    {
+        "name": "lkx;uipp",
+        "trans": [
+            "类型指派 typing"
+        ]
+    },
+    {
+        "name": "yiylde",
+        "trans": [
+            "一元的 unary"
+        ]
+    },
+    {
+        "name": "xxyi",
+        "trans": [
+            "下溢 underflow"
+        ]
+    },
+    {
+        "name": "heyi",
+        "trans": [
+            "合一 unification"
+        ]
+    },
+    {
+        "name": "b;ji",
+        "trans": [
+            "并集 union"
+        ]
+    },
+    {
+        "name": "qljulghx",
+        "trans": [
+            "全局量化 universally quantify"
+        ]
+    },
+    {
+        "name": "wkxjiide",
+        "trans": [
+            "未修饰的 unqualfied"
+        ]
+    },
+    {
+        "name": "ymx;iijf",
+        "trans": [
+            "运行时间 uptime"
+        ]
+    },
+    {
+        "name": "yhhu",
+        "trans": [
+            "用户 user"
+        ]
+    },
+    {
+        "name": "yhhujdmf",
+        "trans": [
+            "用户界面 user interface, UI"
+        ]
+    },
+    {
+        "name": "iiyhhriu",
+        "trans": [
+            "实用函数 utilities"
+        ]
+    },
+    {
+        "name": "yrut",
+        "trans": [
+            "验证 validate"
+        ]
+    },
+    {
+        "name": "yrutqi",
+        "trans": [
+            "验证器 validator"
+        ]
+    },
+    {
+        "name": "uigzzqqi",
+        "trans": [
+            "值构造器 value constructor"
+        ]
+    },
+    {
+        "name": "mtlhjf",
+        "trans": [
+            "朦胧件 vaporware"
+        ]
+    },
+    {
+        "name": "bflg",
+        "trans": [
+            "变量 variable"
+        ]
+    },
+    {
+        "name": "bflgbuuo",
+        "trans": [
+            "变量捕捉 variable capture"
+        ]
+    },
+    {
+        "name": "kebfiuru",
+        "trans": [
+            "可变输入 variadic input"
+        ]
+    },
+    {
+        "name": "bfuh",
+        "trans": [
+            "变种 variant"
+        ]
+    },
+    {
+        "name": "xglg",
+        "trans": [
+            "向量 vector"
+        ]
+    },
+    {
+        "name": "ftxftzziis",
+        "trans": [
+            "风险投资商 venture capitalist, VC"
+        ]
+    },
+    {
+        "name": "kex;hriu",
+        "trans": [
+            "可行函数 viable function"
+        ]
+    },
+    {
+        "name": "iipy",
+        "trans": [
+            "视频 video"
+        ]
+    },
+    {
+        "name": "iitu",
+        "trans": [
+            "视图 view"
+        ]
+    },
+    {
+        "name": "xuhriu",
+        "trans": [
+            "虚函数 virtual function"
+        ]
+    },
+    {
+        "name": "xuniji",
+        "trans": [
+            "虚拟机 virtual machine"
+        ]
+    },
+    {
+        "name": "xunkcm",
+        "trans": [
+            "虚内存 virtual memory"
+        ]
+    },
+    {
+        "name": "hnfa",
+        "trans": [
+            "挥发 volatile"
+        ]
+    },
+    {
+        "name": "ylyy",
+        "trans": [
+            "元音 vowel"
+        ]
+    },
+    {
+        "name": "j;gqxyxi",
+        "trans": [
+            "警告信息 warning message"
+        ]
+    },
+    {
+        "name": "wslofuwuqi",
+        "trans": [
+            "网络服务器 web server"
+        ]
+    },
+    {
+        "name": "qlui",
+        "trans": [
+            "权值 weight"
+        ]
+    },
+    {
+        "name": "lkx;utqn",
+        "trans": [
+            "类型正确 well type"
+        ]
+    },
+    {
+        "name": "thpkfu",
+        "trans": [
+            "通配符 wildcard"
+        ]
+    },
+    {
+        "name": "agkz",
+        "trans": [
+            "窗口 window"
+        ]
+    },
+    {
+        "name": "drci",
+        "trans": [
+            "单词 word"
+        ]
+    },
+    {
+        "name": "bqugqi",
+        "trans": [
+            "包装器 wrapper"
+        ]
+    },
+    {
+        "name": "l;soyyde",
+        "trans": [
+            "零索引的 zero-indexed"
+        ]
+    }
+]
