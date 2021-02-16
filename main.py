@@ -1,10 +1,11 @@
 from os.path import basename
 import pypinyin
-from pyhanlp import *
 from typing import Union, Set, Dict, List, Any, Tuple, Optional
 import re
 import json
 from pprint import pprint
+import os
+import glob
 
 PWD = os.path.abspath(os.path.dirname(__file__))
 SOURCE_DIR = f'{PWD}/source'
