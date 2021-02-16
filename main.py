@@ -1,3 +1,4 @@
+from os.path import basename
 import pypinyin
 from pyhanlp import *
 from typing import Union, Set, Dict, List, Any, Tuple, Optional
@@ -7,6 +8,7 @@ from pprint import pprint
 
 PWD = os.path.abspath(os.path.dirname(__file__))
 SOURCE_DIR = f'{PWD}/source'
+DICTS_DIR = f'{PWD}/dicts'
 
 PINYIN2SHENGYUN_CACHE: Dict[str, Tuple[str, str]] = {}
 
@@ -78,7 +80,7 @@ def hanzi2keys(line, *, shuangpin_schema=None):
             keys[i] = yun[k]
         elif k in other:
             keys[i] = other[k]
-    return keys
+    return [k if isinstance(k, str) else k[0] for k in keys] # ue->[t,v] ===> ue->t
 
 
 if __name__ == '__main__':
@@ -86,17 +88,22 @@ if __name__ == '__main__':
     print(hanzi2keys('我是中国人'))
     print(hanzi2keys('我是中国人', shuangpin_schema='ziranma'))
 
-    shuangpin_schema = 'ziranma'
-    ret = []
-    with open(f'{SOURCE_DIR}/sample1.txt') as f:
-        for raw_line in f.readlines():
-            raw_line = raw_line.strip()
-            line = re.sub('[\u0000-\u007f]', '', raw_line)
-            if not line:
-                continue
-            keys = hanzi2keys(line, shuangpin_schema=shuangpin_schema)
-            ret.append({
-                'name': ''.join(keys),
-                'trans': [raw_line],
-            })
-    pprint(ret)
+    for shuangpin_schema in get_schema():
+        for input_path in glob.glob(f'{SOURCE_DIR}/*.txt'):
+            ret = []
+            with open(input_path) as f:
+                for raw_line in f.readlines():
+                    raw_line = raw_line.strip()
+                    line = re.sub('[\u0000-\u007f]', '', raw_line)
+                    if not line:
+                        continue
+                    keys = hanzi2keys(line, shuangpin_schema=shuangpin_schema)
+                    ret.append({
+                        'name': ''.join(keys),
+                        'trans': [raw_line],
+                    })
+            output_path = f'{DICTS_DIR}/{shuangpin_schema}/{os.path.basename(input_path).replace(".txt", ".json")}'
+            os.makedirs(os.path.dirname(output_path), exist_ok=True)
+            with open(output_path, 'w') as f:
+                json.dump(ret, f, indent=4, ensure_ascii=False)
+            print(f'wrote to {output_path}')
