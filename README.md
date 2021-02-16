@@ -1,3 +1,38 @@
 -   most data & code adapted from <https://github.com/district10/shuangpin-heatmap>
+-   some text crawled from zhihu/douban
 
-<http://geojson.io/#data=data:text/x-url,https%3A%2F%2Fgist.githubusercontent.com%2Fdistrict10%2F674629e19119a01a54c122b75bd59630%2Fraw%2F32b9aec619cc7e7943da6094c9a78649e522dfef%2Fbeijing.json>
+dicts
+
+    ├── pinyinjiajia
+    │   ├── sample1.json
+    │   ├── sample2.json
+    │   └── sample3.json
+    ├── sougou
+    │   ├── sample1.json
+    │   ├── sample2.json
+    │   └── sample3.json
+    ├── weiruan
+    │   ├── sample1.json
+    │   ├── sample2.json
+    │   └── sample3.json
+    ├── xiaohe
+    │   ├── sample1.json
+    │   ├── sample2.json
+    │   └── sample3.json
+    ├── zhinengabc
+    │   ├── sample1.json
+    │   ├── sample2.json
+    │   └── sample3.json
+    ├── ziguang
+    │   ├── sample1.json
+    │   ├── sample2.json
+    │   └── sample3.json
+    └── ziranma
+        ├── douban.json
+        ├── notes.json
+        ├── sample1.json
+        ├── sample2.json
+        ├── sample3.json
+        └── zhihu.json
+
+    7 directories, 24 files
