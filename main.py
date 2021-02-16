@@ -3,6 +3,7 @@ from pyhanlp import *
 from typing import Union, Set, Dict, List, Any, Tuple, Optional
 import re
 import json
+from pprint import pprint
 
 PWD = os.path.abspath(os.path.dirname(__file__))
 SOURCE_DIR = f'{PWD}/source'
@@ -31,6 +32,7 @@ def pinyin2shengyun(pinyin: str) -> Union[Tuple[str, str], str]:
         if sheng not in shengs:
             continue
         PINYIN2SHENGYUN_CACHE[pinyin] = (sheng, yun)
+        return PINYIN2SHENGYUN_CACHE[pinyin]
     return pinyin
 
 
@@ -48,7 +50,7 @@ def get_schema(schema: Optional[str] = None) -> Union[Dict, List[str]]:
     return SHUANGPIN_SCHEMAS[schema]
 
 
-def hanzi2keys(line, *, shuangpin_mode=None):
+def hanzi2keys(line, *, shuangpin_schema=None):
     line = re.sub('[\u0000-\u007f]', '', line)
     keys = []
     for c in line:
@@ -62,9 +64,9 @@ def hanzi2keys(line, *, shuangpin_mode=None):
                 keys.extend(shengyun)
         except Exception:
             pass
-    if shuangpin_mode is None or shuangpin_mode not in get_schema():
+    if shuangpin_schema is None or shuangpin_schema not in get_schema():
         return keys
-    schema = get_schema(shuangpin_mode)
+    schema = get_schema(shuangpin_schema)
     assert isinstance(schema, dict)
     sheng = schema['detail']['sheng']
     yun = schema['detail']['yun']
@@ -82,4 +84,19 @@ def hanzi2keys(line, *, shuangpin_mode=None):
 if __name__ == '__main__':
     print('我是中国人')
     print(hanzi2keys('我是中国人'))
-    print(hanzi2keys('我是中国人', shuangpin_mode='ziranma'))
+    print(hanzi2keys('我是中国人', shuangpin_schema='ziranma'))
+
+    shuangpin_schema = 'ziranma'
+    ret = []
+    with open(f'{SOURCE_DIR}/sample1.txt') as f:
+        for raw_line in f.readlines():
+            raw_line = raw_line.strip()
+            line = re.sub('[\u0000-\u007f]', '', raw_line)
+            if not line:
+                continue
+            keys = hanzi2keys(line, shuangpin_schema=shuangpin_schema)
+            ret.append({
+                'name': ''.join(keys),
+                'trans': [raw_line],
+            })
+    pprint(ret)
