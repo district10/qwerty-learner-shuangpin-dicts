@@ -81,7 +81,8 @@ def hanzi2keys(line, *, shuangpin_schema=None):
             keys[i] = yun[k]
         elif k in other:
             keys[i] = other[k]
-    return [k if isinstance(k, str) else k[0] for k in keys] # ue->[t,v] ===> ue->t
+    # e.g. ue->[t,v] ===> ue->t
+    return [k if isinstance(k, str) else k[0] for k in keys]
 
 
 if __name__ == '__main__':
