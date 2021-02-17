@@ -13,6 +13,7 @@ import numpy as np
 import random
 
 
+
 def count_words(line: str, *, counter: Dict[str, int]):
     segments = HanLP.segment(line)
     for seg_idx, seg in enumerate(segments):
@@ -23,6 +24,8 @@ def count_words(line: str, *, counter: Dict[str, int]):
 
 
 if __name__ == '__main__':
+    random.seed(0)
+
     prog = 'hanzi frequency counter'
     description = ('count hanzi words frequency')
     parser = argparse.ArgumentParser(prog=prog, description=description)
