@@ -11,8 +11,21 @@ PWD = os.path.abspath(os.path.dirname(__file__))
 SOURCE_DIR = f'{PWD}/source'
 DICTS_DIR = f'{PWD}/dicts'
 
-PINYIN2SHENGYUN_CACHE: Dict[str, Tuple[str, str]] = {}
-
+PINYIN2SHENGYUN_CACHE: Dict[str, Tuple[str, str]] = {
+    # TODO, fix 零声母方案
+    'a': ('a', 'a'),
+    'o': ('o', 'o'),
+    'e': ('e', 'e'),
+    'ai': ('a', 'i'),
+    'an': ('a', 'n'),
+    'ao': ('a', 'o'),
+    'ei': ('e', 'i'),
+    'en': ('e', 'n'),
+    'er': ('e', 'r'),
+    'ou': ('o', 'u'),
+    'ang': ('a', 'h'),
+    'eng': ('e', 'g'),
+}
 
 def pinyin2shengyun(pinyin: str) -> Union[Tuple[str, str], str]:
     global PINYIN2SHENGYUN_CACHE
@@ -86,9 +99,10 @@ def hanzi2keys(line, *, shuangpin_schema=None):
 
 
 if __name__ == '__main__':
-    print('我是中国人')
-    print(hanzi2keys('我是中国人'))
-    print(hanzi2keys('我是中国人', shuangpin_schema='ziranma'))
+    text = '上海自来水来自海上'
+    print(text)
+    print(hanzi2keys(text))
+    print(hanzi2keys(text, shuangpin_schema='ziranma'))
 
     for shuangpin_schema in get_schema():
         for input_path in glob.glob(f'{SOURCE_DIR}/*.txt'):
