@@ -1,5 +1,5 @@
 all:
-	@echo nothing special
+	time make dicts
 
 lint:
 	python3 -m yapf -ir . # -vv
