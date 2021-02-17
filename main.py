@@ -6,10 +6,35 @@ import json
 from pprint import pprint
 import os
 import glob
+from tqdm import tqdm
+from pyhanlp import *
 
 PWD = os.path.abspath(os.path.dirname(__file__))
 SOURCE_DIR = f'{PWD}/source'
 DICTS_DIR = f'{PWD}/dicts'
+
+
+PATCHED_PINYIN_DICT: bool = False
+def patch_pinyin_dict():
+    global PATCHED_PINYIN_DICT
+    if PATCHED_PINYIN_DICT:
+        return
+    phrases = {}
+    with open(f'{PWD}/large_pinyin.txt') as f:
+        lines = f.readlines()
+        for line in tqdm(lines):
+            cols = line.split(': ')
+            if len(cols) != 2:
+                continue
+            hanzi = cols[0]
+            pinyin = cols[1].split()
+            if len(hanzi) != len(pinyin):
+                print(f'skip line {line}')
+                continue
+            phrases[hanzi] = [[p] for p in pinyin]
+    pypinyin.load_phrases_dict(phrases)
+    PATCHED_PINYIN_DICT = True
+
 
 PINYIN2SHENGYUN_CACHE: Dict[str, Tuple[str, str]] = {
     # TODO, fix 零声母方案
@@ -66,20 +91,27 @@ def get_schema(schema: Optional[str] = None) -> Union[Dict, List[str]]:
     return SHUANGPIN_SCHEMAS[schema]
 
 
+def segmentize(line: str):
+    segments = [str(s) for s in HanLP.segment(line)]
+    words = [s[:s.rfind('/')] for s in segments]
+    hanzis = [re.sub('[\u0000-\u007f]', '', w) for w in words]
+    return [h for h in hanzis if h]
+
+
 def hanzi2keys(line, *, shuangpin_schema=None):
-    line = re.sub('[\u0000-\u007f]', '', line)
+    patch_pinyin_dict()
     keys = []
-    for c in line:
+    for word in segmentize(line):
         try:
-            pinyin = pypinyin.pinyin(
-                c, style=pypinyin.Style.NORMAL, errors='ignore')[0][0]
-            shengyun = pinyin2shengyun(pinyin)
-            if isinstance(shengyun, str):
-                keys.append(shengyun)
-            else:
-                keys.extend(shengyun)
-        except Exception:
-            pass
+            pinyins = pypinyin.pinyin(word, style=pypinyin.Style.NORMAL, errors='ignore')
+            for pinyin in [py[0] for py in pinyins]:
+                shengyun = pinyin2shengyun(pinyin)
+                if isinstance(shengyun, str):
+                    keys.append(shengyun)
+                else:
+                    keys.extend(shengyun)
+        except Exception as e:
+            print(repr(e))
     if shuangpin_schema is None or shuangpin_schema not in get_schema():
         return keys
     schema = get_schema(shuangpin_schema)
@@ -99,27 +131,19 @@ def hanzi2keys(line, *, shuangpin_schema=None):
 
 
 if __name__ == '__main__':
-    text = '上海自来水来自海上'
-    print(text)
-    print(hanzi2keys(text))
-    print(hanzi2keys(text, shuangpin_schema='ziranma'))
 
-    for shuangpin_schema in get_schema():
-        for input_path in glob.glob(f'{SOURCE_DIR}/*.txt'):
-            ret = []
-            with open(input_path) as f:
-                for raw_line in f.readlines():
-                    raw_line = raw_line.strip()
-                    line = re.sub('[\u0000-\u007f]', '', raw_line)
-                    if not line:
-                        continue
-                    keys = hanzi2keys(line, shuangpin_schema=shuangpin_schema)
-                    ret.append({
-                        'name': ''.join(keys),
-                        'trans': [raw_line],
-                    })
-            output_path = f'{DICTS_DIR}/{shuangpin_schema}/{os.path.basename(input_path).replace(".txt", ".json")}'
-            os.makedirs(os.path.dirname(output_path), exist_ok=True)
-            with open(output_path, 'w') as f:
-                json.dump(ret, f, indent=4, ensure_ascii=False)
-            print(f'wrote to {output_path}')
+
+    for text in [
+        '似乎',
+        '类似',
+        '帧率',
+        '命令行',
+        '我是中国人',
+        '我是中 国人',
+        '这是一个矩阵 Matrix 队列 / yes',
+    ]:
+        print()
+        print('文本:', text)
+        print('分词:', segmentize(text))
+        print('拼音:', hanzi2keys(text))
+        print('双拼:', hanzi2keys(text, shuangpin_schema='ziranma'))

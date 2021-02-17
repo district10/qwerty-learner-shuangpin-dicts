@@ -4,7 +4,7 @@ all:
 lint:
 	python3 -m yapf -ir . # -vv
 
-dicts:
+dicts: large_pinyin.txt
 	make douban
 	make notes
 	make samples
