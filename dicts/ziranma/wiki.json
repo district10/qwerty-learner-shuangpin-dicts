@@ -2768,7 +2768,7 @@
         ]
     },
     {
-        "name": "lzui",
+        "name": "lzsi",
         "trans": [
             "类似",
             18,
@@ -3152,7 +3152,7 @@
         ]
     },
     {
-        "name": "mylyxy",
+        "name": "mylyhh",
         "trans": [
             "命令行",
             17,
@@ -3328,7 +3328,7 @@
         ]
     },
     {
-        "name": "mylyxy",
+        "name": "mylyhh",
         "trans": [
             "命令行",
             17,
@@ -3568,7 +3568,7 @@
         ]
     },
     {
-        "name": "mylyxy",
+        "name": "mylyhh",
         "trans": [
             "命令行",
             17,
@@ -3648,7 +3648,7 @@
         ]
     },
     {
-        "name": "lzui",
+        "name": "lzsi",
         "trans": [
             "类似",
             18,
@@ -4680,7 +4680,7 @@
         ]
     },
     {
-        "name": "lzui",
+        "name": "lzsi",
         "trans": [
             "类似",
             18,
@@ -7664,7 +7664,7 @@
         ]
     },
     {
-        "name": "dcvg",
+        "name": "tcvg",
         "trans": [
             "调整",
             6,
@@ -8520,7 +8520,7 @@
         ]
     },
     {
-        "name": "dcvg",
+        "name": "tcvg",
         "trans": [
             "调整",
             6,
@@ -10328,7 +10328,7 @@
         ]
     },
     {
-        "name": "vsgb",
+        "name": "isgb",
         "trans": [
             "重构",
             5,
@@ -10560,7 +10560,7 @@
         ]
     },
     {
-        "name": "vsfu",
+        "name": "isfu",
         "trans": [
             "重复",
             4,
@@ -10656,7 +10656,7 @@
         ]
     },
     {
-        "name": "vsgb",
+        "name": "isgb",
         "trans": [
             "重构",
             5,
@@ -10744,7 +10744,7 @@
         ]
     },
     {
-        "name": "vsfu",
+        "name": "isfu",
         "trans": [
             "重复",
             4,
@@ -10936,7 +10936,7 @@
         ]
     },
     {
-        "name": "lzuiyu",
+        "name": "lzsiyu",
         "trans": [
             "类似于",
             5,
@@ -11000,7 +11000,7 @@
         ]
     },
     {
-        "name": "lzuiyu",
+        "name": "lzsiyu",
         "trans": [
             "类似于",
             5,
@@ -14016,7 +14016,7 @@
         ]
     },
     {
-        "name": "vhdu",
+        "name": "ihdu",
         "trans": [
             "长度",
             3,
@@ -14296,7 +14296,7 @@
         ]
     },
     {
-        "name": "vhdu",
+        "name": "ihdu",
         "trans": [
             "长度",
             3,
@@ -14432,7 +14432,7 @@
         ]
     },
     {
-        "name": "dcui",
+        "name": "tcui",
         "trans": [
             "调试",
             2,
@@ -16608,7 +16608,7 @@
         ]
     },
     {
-        "name": "zlxi",
+        "name": "zixi",
         "trans": [
             "仔细",
             2,
@@ -17928,7 +17928,7 @@
         ]
     },
     {
-        "name": "xcyj",
+        "name": "jcyj",
         "trans": [
             "校验",
             1,
@@ -18632,7 +18632,7 @@
         ]
     },
     {
-        "name": "dcuixnxi",
+        "name": "tcuixnxi",
         "trans": [
             "调试信息",
             1,
@@ -19256,7 +19256,7 @@
         ]
     },
     {
-        "name": "djiu",
+        "name": "tjiu",
         "trans": [
             "弹出",
             1,
@@ -19528,7 +19528,7 @@
         ]
     },
     {
-        "name": "poie",
+        "name": "boie",
         "trans": [
             "泊车",
             1,
@@ -19568,7 +19568,7 @@
         ]
     },
     {
-        "name": "naxx",
+        "name": "nzxx",
         "trans": [
             "哪些",
             1,
@@ -20080,7 +20080,7 @@
         ]
     },
     {
-        "name": "wzdc",
+        "name": "wztc",
         "trans": [
             "微调",
             1,
@@ -20336,7 +20336,7 @@
         ]
     },
     {
-        "name": "whdb",
+        "name": "whdu",
         "trans": [
             "望都",
             1,
@@ -21272,7 +21272,7 @@
         ]
     },
     {
-        "name": "nage",
+        "name": "nzge",
         "trans": [
             "哪个",
             1,
@@ -22576,7 +22576,7 @@
         ]
     },
     {
-        "name": "jcxdle",
+        "name": "jcxdyt",
         "trans": [
             "交响乐",
             1,
@@ -22848,7 +22848,7 @@
         ]
     },
     {
-        "name": "lejx",
+        "name": "lcjx",
         "trans": [
             "了解",
             1,
@@ -23288,7 +23288,7 @@
         ]
     },
     {
-        "name": "jiiv",
+        "name": "jivv",
         "trans": [
             "脊椎",
             1,

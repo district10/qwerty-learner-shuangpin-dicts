@@ -1424,7 +1424,7 @@
         ]
     },
     {
-        "name": "dcui",
+        "name": "tcui",
         "trans": [
             "调试",
             2,
@@ -1720,7 +1720,7 @@
         ]
     },
     {
-        "name": "mylyxy",
+        "name": "mylyhh",
         "trans": [
             "命令行",
             2,
@@ -2432,7 +2432,7 @@
         ]
     },
     {
-        "name": "xcyj",
+        "name": "jcyj",
         "trans": [
             "校验",
             1,
@@ -2464,7 +2464,7 @@
         ]
     },
     {
-        "name": "dcuiqi",
+        "name": "tcuiqi",
         "trans": [
             "调试器",
             1,
@@ -2560,7 +2560,7 @@
         ]
     },
     {
-        "name": "irxy",
+        "name": "irhh",
         "trans": [
             "串行",
             2,
@@ -3160,7 +3160,7 @@
         ]
     },
     {
-        "name": "bcuifu",
+        "name": "bcvifu",
         "trans": [
             "标识符",
             1,
@@ -3432,7 +3432,7 @@
         ]
     },
     {
-        "name": "dovs",
+        "name": "dois",
         "trans": [
             "多重",
             1,
@@ -5152,7 +5152,7 @@
         ]
     },
     {
-        "name": "hrxy",
+        "name": "hrhh",
         "trans": [
             "换行",
             1,
@@ -5528,7 +5528,7 @@
         ]
     },
     {
-        "name": "dcvijxdcqi",
+        "name": "tcvijxtcqi",
         "trans": [
             "调制解调器",
             1,
@@ -6224,7 +6224,7 @@
         ]
     },
     {
-        "name": "vsgb",
+        "name": "isgb",
         "trans": [
             "重构",
             1,
