@@ -23,3 +23,16 @@ zhihu:
 wiki:
 	python3 hanzi_freq.py --input sample.txt --output-dict dicts/ziranma/wiki.json
 .PHONY: dicts douban notes samples zhihu wiki
+
+large_pinyin.txt:
+	wget https://raw.githubusercontent.com/mozillazg/phrase-pinyin-data/22ed9d35cfb5ca5d8dbbea60938becafd9efa238/large_pinyin.txt
+
+csv:
+	python3 archiver.py \
+		--input \
+			../blog/notes/notes/*.md \
+			raw_source/douban.txt  \
+			raw_source/zhihu.txt \
+			sample.txt \
+			source/sample*.txt \
+		--output-csv pinyin-shuangpin.csv
