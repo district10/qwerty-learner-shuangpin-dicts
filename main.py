@@ -20,18 +20,19 @@ def patch_pinyin_dict():
     if PATCHED_PINYIN_DICT:
         return
     phrases = {}
-    with open(f'{PWD}/large_pinyin.txt') as f:
-        lines = f.readlines()
-        for line in tqdm(lines):
-            cols = line.split(': ')
-            if len(cols) != 2:
-                continue
-            hanzi = cols[0]
-            pinyin = cols[1].split()
-            if len(hanzi) != len(pinyin):
-                print(f'skip line {line}')
-                continue
-            phrases[hanzi] = [[p] for p in pinyin]
+    for basename in ['large_pinyin.txt', 'patch_pinyin.txt']:
+        with open(f'{PWD}/{basename}') as f:
+            lines = f.readlines()
+            for line in tqdm(lines):
+                cols = line.split(': ')
+                if len(cols) != 2:
+                    continue
+                hanzi = cols[0]
+                pinyin = cols[1].split()
+                if len(hanzi) != len(pinyin):
+                    print(f'skip line {line}')
+                    continue
+                phrases[hanzi] = [[p] for p in pinyin]
     pypinyin.load_phrases_dict(phrases)
     PATCHED_PINYIN_DICT = True
 
@@ -131,8 +132,6 @@ def hanzi2keys(line, *, shuangpin_schema=None):
 
 
 if __name__ == '__main__':
-
-
     for text in [
         '似乎',
         '类似',
@@ -141,6 +140,7 @@ if __name__ == '__main__':
         '我是中国人',
         '我是中 国人',
         '这是一个矩阵 Matrix 队列 / yes',
+        '那些',
     ]:
         print()
         print('文本:', text)
