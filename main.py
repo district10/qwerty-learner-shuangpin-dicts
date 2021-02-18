@@ -30,7 +30,7 @@ def patch_pinyin_dict():
                 hanzi = cols[0]
                 pinyin = cols[1].split()
                 if len(hanzi) != len(pinyin):
-                    print(f'skip line {line}')
+                    print(f'skip line {line.strip()}')
                     continue
                 phrases[hanzi] = [[p] for p in pinyin]
     pypinyin.load_phrases_dict(phrases)
@@ -134,11 +134,12 @@ def hanzi2keys(line, *, shuangpin_schema=None):
 if __name__ == '__main__':
     for text in [
         '似乎',
-        '类似',
-        '帧率',
         '命令行',
-        '我是中国人',
+        '帧率',
         '我是中 国人',
+        '我是中国人',
+        '我是谁',
+        '类似',
         '这是一个矩阵 Matrix 队列 / yes',
         '那些',
     ]:

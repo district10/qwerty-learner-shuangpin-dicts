@@ -36,3 +36,7 @@ dicts
         └── zhihu.json
 
     7 directories, 24 files
+
+Tips
+
+-   我是谁 shei

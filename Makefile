@@ -16,9 +16,17 @@ douban:
 notes:
 	python3 hanzi_freq.py --input ../blog/notes/notes/*.md  --output-dict dicts/ziranma/notes.json
 samples:
+	make sample1
+	make sample2
+	make sample3
+	make sample4
+sample1:
 	python3 hanzi_freq.py --input source/sample1.txt --output-dict dicts/ziranma/sample1.json
+sample2:
 	python3 hanzi_freq.py --input source/sample2.txt --output-dict dicts/ziranma/sample2.json
+sample3:
 	python3 hanzi_freq.py --input source/sample3.txt --output-dict dicts/ziranma/sample3.json
+sample4:
 	python3 hanzi_freq.py --input source/sample4.txt --output-dict dicts/ziranma/sample4.json
 zhihu:
 	python3 hanzi_freq.py --input raw_source/zhihu.txt  --output-dict dicts/ziranma/zhihu.json
