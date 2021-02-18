@@ -1,4 +1,4 @@
 /*.txt
 !patch_pinyin.txt
 __pycache__/
-sample*
+/sample*

@@ -1,5 +1,6 @@
 all:
 	time make dicts
+	time make csv
 
 lint:
 	python3 -m yapf -ir . # -vv
@@ -18,6 +19,7 @@ samples:
 	python3 hanzi_freq.py --input source/sample1.txt --output-dict dicts/ziranma/sample1.json
 	python3 hanzi_freq.py --input source/sample2.txt --output-dict dicts/ziranma/sample2.json
 	python3 hanzi_freq.py --input source/sample3.txt --output-dict dicts/ziranma/sample3.json
+	python3 hanzi_freq.py --input source/sample4.txt --output-dict dicts/ziranma/sample4.json
 zhihu:
 	python3 hanzi_freq.py --input raw_source/zhihu.txt  --output-dict dicts/ziranma/zhihu.json
 wiki:
